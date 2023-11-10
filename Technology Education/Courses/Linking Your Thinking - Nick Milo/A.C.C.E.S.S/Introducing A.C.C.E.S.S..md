@@ -1,0 +1,6 @@
+- Knowledge vs Action
+- Folders vs Links
+- Structure vs Chaos
+- ACCESS finds the balance
+	- What separates ACCESS from a standard folder setup is that it' a unique hybrid approach to organizing your PKM setup. 
+	- It's a folder-based PKM framework that also uses MOCs to dynamically connect the notes across these folders allowing you to quickly launch into any part of your vault while still maintaining the firmer and familiar structure of folders. 

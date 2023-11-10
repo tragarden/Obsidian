@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "b8c6cccaf795773d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5830a2c5982507a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde093acef1d2219",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "675310404c3ee935",
+    "type": "split",
+    "children": [
+      {
+        "id": "15bc62ee6e7952a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98fa0f2fb9efd23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad2101941ef605b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CISCO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "441d0ddd5b1f6d22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 436.5
+  },
+  "right": {
+    "id": "2ba22d7c74477052",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf566a3f335a4b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19890619ba6165ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2479613c91f0158b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8c38c6100091dd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b625ad20e46fa472",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "115f6945febd1e7c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad2101941ef605b3",
+  "lastOpenFiles": [
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/005 Troubleshooting Hardware and Network/052 Troubleshooting Computer Hardware/052 Troubleshooting Common Hardware Problems.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/003 Hardware/031 Cables and Adapters/531 Video Cables.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/024 Social Engineering/024 Zero-Day Attacks.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/023 Malware/023 Malware.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/003 Troubleshooting Software/031 Troubleshooting Windows/031 Troubleshooting Windows.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/021 Security Measures/021 Physical Security for Staff.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/021 Security Measures/021 Active Directory.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/021 Security Measures/021 Logical Security.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ with James Messer.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/003 Troubleshooting Software/031 Troubleshooting Windows/031 Troubleshooting Solutions.md",
+    "Untitled.canvas",
+    "Journal/2023-11-01.md",
+    "Journal/2023-10-28.md",
+    "Journal/2023-10-29.md",
+    "Journal/2023-10-31.md",
+    "Journal/2023-10-30.md",
+    "Journal/2023-10-29 1.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/049 Remote Access/049 Remote Access.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/048 Scripting/048 Scripting Use Cases.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/001 Mobile Devices/011 Laptop Hardware/~$1 Laptop Hardware.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/048 Scripting/048 Scripting Languages.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/005 Troubleshooting Hardware and Network/055 Troubleshooting Mobile Devices/055 Troubleshooting Mobile Devices.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/047 Communication and Professionalism/047 Professionalism.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/047 Communication and Professionalism/047 Communication.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/046 Privacy and Policies/046 Privacy, Listening, and Policies.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/045 Environmental Impacts/045 Environmental Impacts.md",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/003 Troubleshooting Software/035 Troubleshooting Mobile Applications/035 Troubleshooting Mobile Device Security.md",
+    "Journal",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/049 Remote Access",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/048 Scripting",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/047 Communication and Professionalism",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/046 Privacy and Policies",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/045 Environmental Impacts",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/044 Safety Procedures",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/043 Backup and Recovery",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/042 Change Management",
+    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/041 Documentation and Support Systems",
+    "Untitled 1.canvas"
+  ]
+}
