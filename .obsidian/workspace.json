@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "953664db50e463f2",
+        "id": "fe4ab23a26e781cb",
         "type": "tabs",
         "children": [
           {
-            "id": "3485a8cc9d278385",
+            "id": "17229ea672cbcdd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/TailScale/TailScale with WireGuard.md",
+                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/TailScale/TailScale with WireGuard.md",
+                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/TailScale/TailScale with WireGuard.md",
+                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/TailScale/TailScale with WireGuard.md"
+                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md"
               }
             }
           },
@@ -160,14 +160,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3485a8cc9d278385",
+  "active": "d98fa0f2fb9efd23",
   "lastOpenFiles": [
-    "Technology Education/TailScale/Subnet Routers.md",
-    "Technology Education/TailScale/TailScale with WireGuard.md",
-    "Untitled",
+    "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
+    "Technology Education/Notes/TailScale/TailScale with WireGuard.md",
+    "Technology Education/Notes/TailScale/Subnet Routers.md",
+    "Technology Education/Notes/Pi-Hole",
     "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/022 Network Devices/222 Software Defined Networking.md",
     "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/022 Network Devices/122 Network Devices.md",
-    "Technology Education/TailScale",
+    "Technology Education/Notes/TailScale",
     "Journal/2023-11-10.md",
     "Technology Education/Courses/TryHackME/TryHackMe Notes Misc.md",
     "Technology Education/Courses/Hack The Box Academy/HackTheBox Academy Notes misc.md",
