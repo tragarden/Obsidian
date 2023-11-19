@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe4ab23a26e781cb",
+        "id": "10ec0e4f65f0d07f",
         "type": "tabs",
         "children": [
           {
-            "id": "17229ea672cbcdd6",
+            "id": "210863bd3c9fa078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CISCO",
+                "query": "tag:#Ccaxial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Notes/Pi-Hole/Pi-Hole.md"
+                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md"
               }
             }
           },
@@ -160,45 +160,45 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d98fa0f2fb9efd23",
+  "active": "210863bd3c9fa078",
   "lastOpenFiles": [
-    "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
-    "Technology Education/Notes/TailScale/TailScale with WireGuard.md",
-    "Technology Education/Notes/TailScale/Subnet Routers.md",
-    "Technology Education/Notes/Pi-Hole",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/022 Network Devices/222 Software Defined Networking.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/022 Network Devices/122 Network Devices.md",
-    "Technology Education/Notes/TailScale",
-    "Journal/2023-11-10.md",
-    "Technology Education/Courses/TryHackME/TryHackMe Notes Misc.md",
+    "1876 HTB Authentication Protocols.md",
+    "1872 HTB Common Protocols.md",
+    "Journal/November 2023/2023-11-01.md",
+    "Untitled.md",
+    "Journal/October 2023/2023-10-28.md",
+    "Journal/November 2023",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
+    "Journal/October 2023",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1347 HTB Active Directory Terminology.md",
+    "Journal/November 2023/2023-11-19.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1349 HTB Active Directory Functionality.md",
+    "Journal/November 2023/2023-11-18.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1348 HTB Active Directory Objects.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0297 HTB Networking Intro.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory",
+    "0482 HTB IPv6 Addresses.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/0700 HTB Active Directory Structure.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1878 HTB Vendor Specific Information.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1874 HTB Virtual Private Networks.md",
     "Technology Education/Courses/Hack The Box Academy/HackTheBox Academy Notes misc.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/005 Troubleshooting Hardware and Network/052 Troubleshooting Computer Hardware/052 Troubleshooting Common Hardware Problems.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/003 Hardware/031 Cables and Adapters/531 Video Cables.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/024 Social Engineering/024 Zero-Day Attacks.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/023 Malware/023 Malware.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/003 Troubleshooting Software/031 Troubleshooting Windows/031 Troubleshooting Windows.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/021 Security Measures/021 Physical Security for Staff.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/021 Security Measures/021 Active Directory.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/002 Security/021 Security Measures/021 Logical Security.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ with James Messer.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/003 Troubleshooting Software/031 Troubleshooting Windows/031 Troubleshooting Solutions.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1873 HTB Wireless Networks.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0305 HTB IP Addresses.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0304 HTB Network Layer.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0303 HTB TCP Model.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0302 HTB OSI Model.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0301 HTB Networking Models.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0300 HTB Proxies.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0299 HTB Networking Topologies.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0298 HTB Network Types.md",
+    "Technology Education/Notes/Home Network Setup and Security",
+    "Technology Education/Notes/Pi-Hole",
+    "Technology Education/Notes/TailScale",
     "Untitled.canvas",
-    "Journal/2023-11-01.md",
-    "Journal/2023-10-28.md",
-    "Journal/2023-10-29.md",
-    "Journal/2023-10-31.md",
-    "Journal/2023-10-30.md",
-    "Journal/2023-10-29 1.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/049 Remote Access/049 Remote Access.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/048 Scripting/048 Scripting Use Cases.md",
     "Journal",
     "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/049 Remote Access",
     "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/048 Scripting",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/047 Communication and Professionalism",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/046 Privacy and Policies",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/045 Environmental Impacts",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/044 Safety Procedures",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/043 Backup and Recovery",
     "Untitled 1.canvas"
   ]
 }
