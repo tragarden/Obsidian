@@ -31,4 +31,23 @@ Service Records ( #SRV) allow clients within the Active Domain to locate service
 
 ### LDAP
 
-Lightweight Directory Access Protocol ( #LDAP)
+Lightweight Directory Access Protocol ( #LDAP) is an #open-source and #cross-platform authentication protocol that is used by a variety of directory services. LDAP uses #port 389, and LDAP over #SSL ( #LDAPS) uses #port 636. 
+
+LDAP is the protocol that facilitates communication between the #network and the active directory, allowing for sharing of account and security information. To initiate an LDAP session, the client connects to a Directory System Agent, or LDAP server. Domain Controllers in the Active Domain listen for LDAP requests.
+
+You can think of an Active Directory as a server that uses the LDAP protocol.
+
+Simple Authentication means that credentials have been submitted, creating a #BIND request for authentication on the LDAP server.
+
+#SASL Authentication uses the Simple Authentication and Security Layer ( #SASL) framework in conjunction with other authentication services to bind the LDAP server to that authentication service. LDAP will communicate with the authorization service to initiate challenge/response handshakes.
+
+It is worth noting that LDAP messages are cleartext by default, so a #MITM attack can detect these messages if you choose not to encrypt them. 
+
+### MSRPC
+
+Microsoft Remote Procedure Call ( #MSRPC / #RPC) facilitates communications between client-server applications and for access to Active Directory using one of four RPC interfaces.
+
+1. #lsarpc refers to the RPC calls for Local Security Authority ( #LSA ) to manage local policies, audit policies, and manage domain security policies. 
+2. #netlogon is a #Windows #process that runs in the background, authenticating users and services within the domain.
+3. #samr refers to Remote SAM manages the domain database, users, groups, admins, and computers. Attackers that gain entry to Remote SAM  can collect information about the domain and objects within that domain. An app like #Bloodhound can track and route these vulnerabilities or attack paths. You should change your windows registry key so that only your admins have access to remote SAM.
+4. #drsuapi is the #API that initializes Directory Replication Service ( #DRS) Remote Protocol to manage replication tasks across many domain controllers. This is a problem as an attacker will be able to copy your Active Directory Database with all account hashes and cleartext password information.

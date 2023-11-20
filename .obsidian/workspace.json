@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "210863bd3c9fa078",
+            "id": "77355c4c5e959368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
+                "file": "0702 HTB Active Directory Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
+                "file": "0702 HTB Active Directory Groups.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
+                "file": "0702 HTB Active Directory Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md"
+                "file": "0702 HTB Active Directory Groups.md"
               }
             }
           },
@@ -160,38 +160,38 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "210863bd3c9fa078",
+  "active": "77355c4c5e959368",
   "lastOpenFiles": [
-    "1876 HTB Authentication Protocols.md",
+    "0306 HTB MISSING SUBNETTING.md",
+    "0307 HTB MISSING MAC Addresses.md",
+    "0482 HTB IPv6 Addresses.md",
+    "0702 HTB Active Directory Groups.md",
+    "1871 HTB Networking Key Terminology.md",
     "1872 HTB Common Protocols.md",
+    "1875 HTB Key Exchange Mechanisms.md",
+    "1876 HTB Authentication Protocols.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1350 HTB NTLM Authentication.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/0704 HTB User and Machine Accounts.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1347 HTB Active Directory Terminology.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1349 HTB Active Directory Functionality.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/1348 HTB Active Directory Objects.md",
+    "2026 HTB Cryptography.md",
+    "1879 HTB TCP UDP Connections.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
     "Journal/November 2023/2023-11-01.md",
-    "Untitled.md",
     "Journal/October 2023/2023-10-28.md",
     "Journal/November 2023",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
     "Journal/October 2023",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1347 HTB Active Directory Terminology.md",
     "Journal/November 2023/2023-11-19.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1349 HTB Active Directory Functionality.md",
     "Journal/November 2023/2023-11-18.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1348 HTB Active Directory Objects.md",
     "Technology Education/Courses/Hack The Box Academy/Networking/0297 HTB Networking Intro.md",
     "Technology Education/Courses/Hack The Box Academy/Active Directory",
-    "0482 HTB IPv6 Addresses.md",
     "Technology Education/Courses/Hack The Box Academy/Active Directory/0700 HTB Active Directory Structure.md",
     "Technology Education/Courses/Hack The Box Academy/Networking",
     "Technology Education/Courses/Hack The Box Academy/Networking/1878 HTB Vendor Specific Information.md",
     "Technology Education/Courses/Hack The Box Academy/Networking/1874 HTB Virtual Private Networks.md",
     "Technology Education/Courses/Hack The Box Academy/HackTheBox Academy Notes misc.md",
     "Technology Education/Courses/Hack The Box Academy/Networking/1873 HTB Wireless Networks.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0305 HTB IP Addresses.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0304 HTB Network Layer.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0303 HTB TCP Model.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0302 HTB OSI Model.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0301 HTB Networking Models.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0300 HTB Proxies.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0299 HTB Networking Topologies.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0298 HTB Network Types.md",
     "Technology Education/Notes/Home Network Setup and Security",
     "Technology Education/Notes/Pi-Hole",
     "Technology Education/Notes/TailScale",
