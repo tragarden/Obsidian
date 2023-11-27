@@ -15,10 +15,14 @@ NT LAN Manager is a #challenge-response #protocol that uses hashes and three mes
 3. The client will then respond with an #AUTHENTICATE_MESSAGE.
 4. Hashes are stored in the SAM database or the NTDS.DIT database on the Domain Controllers.
 
-The NTLM hashes are stronger than LM hashes, but are still succeptible to #brute-force attacks and online dictionaries. These are vulnerable to #Pass-the-Hash type attacks.
+The NTLM hashes are stronger than LM hashes, but are still susceptible to #brute-force attacks and online dictionaries. These are vulnerable to #Pass-the-Hash type attacks.
 
 The material used for these notes has further information about NTLMv1 and NTLMv2 protocols and how they operate.
 
 ### Domain Cached Credentials
 
 Domain Cached Credentials ( #DCC) or #MSCache resolves an issue of a host on the domain being unable to communicate to it's local #domain controller ( #DC).  This is a more modern and secure method for authenticating credentials.
+
+AUTHENTICATION IS WHO CAN DO THINGS
+AUTHORIZATION IS WHAT THINGS CAN BE DONE
+
