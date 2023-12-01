@@ -25,3 +25,9 @@ After receiving a reply from a DNS server, a #GET request is sent to the HTTP po
 ### cURL
 
 Client URL ( #cURL) is a command line tool that allows you to run scripts and automation for web requests over HTTP.  cURL will return data from the site it is paired with, which may be raw HTML data that is not rendered in the browser. The ( -O ) flag can be used to download this text data when cURL returns it. 
+
+# HTTP Secure
+
+HyperText Transfer Protocol Secure ( #HTTPS) is the secured version of HTTP, encrypting all transmitted data instead of the plaintext transfers that HTTP does. If you try to force an HTTPS based site to use HTTP on port 80, the server will yield the error code "301 Moved Permanently" and move communications to port 443.
+
+In the case of HTTPS, the client will deliver a "client hello" package and the server will respond with a "server hello" and a subsequent key exchange

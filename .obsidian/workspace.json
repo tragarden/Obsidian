@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10ec0e4f65f0d07f",
+        "id": "edcdbfe768ffb1d1",
         "type": "tabs",
         "children": [
           {
-            "id": "77355c4c5e959368",
+            "id": "78a91b5635547614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0702 HTB Active Directory Groups.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Web Requests/0223 HTB Headers.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ccaxial",
+                "query": "tag:#FQDN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0702 HTB Active Directory Groups.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Web Requests/0223 HTB Headers.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0702 HTB Active Directory Groups.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Web Requests/0223 HTB Headers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0702 HTB Active Directory Groups.md"
+                "file": "Technology Education/Courses/Hack The Box Academy/Web Requests/0223 HTB Headers.md"
               }
             }
           },
@@ -137,9 +137,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "89506b5ca414f5da",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,45 +168,45 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "77355c4c5e959368",
+  "active": "d98fa0f2fb9efd23",
   "lastOpenFiles": [
-    "0306 HTB MISSING SUBNETTING.md",
-    "0307 HTB MISSING MAC Addresses.md",
-    "0482 HTB IPv6 Addresses.md",
-    "0702 HTB Active Directory Groups.md",
-    "1871 HTB Networking Key Terminology.md",
-    "1872 HTB Common Protocols.md",
-    "1875 HTB Key Exchange Mechanisms.md",
-    "1876 HTB Authentication Protocols.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1350 HTB NTLM Authentication.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0704 HTB User and Machine Accounts.md",
+    "Journal/November 2023/2023-11-30.md",
+    "Journal/November 2023/2023-11-29.md",
+    "Technology Education/Courses/Hack The Box Academy/Web Requests/0223 HTB Headers.md",
+    "Technology Education/Courses/Hack The Box Academy/Web Requests/0220 HTB HTTP Requests + Responses.md",
+    "Technology Education/Courses/Hack The Box Academy/Web Requests/0219 HTB HTTP + 0228 HTTPS.md",
+    "Technology Education/Courses/Hack The Box Academy/Web Requests",
     "Technology Education/Courses/Hack The Box Academy/Active Directory/1347 HTB Active Directory Terminology.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1349 HTB Active Directory Functionality.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1348 HTB Active Directory Objects.md",
-    "2026 HTB Cryptography.md",
-    "1879 HTB TCP UDP Connections.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
-    "Journal/November 2023/2023-11-01.md",
-    "Journal/October 2023/2023-10-28.md",
+    "Technology Education/Courses/Hack The Box Academy/Active Directory/0706 HTB Examining Group Policy.md",
+    "1872 HTB Common Protocols.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0306 HTB Subnetting.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/2026 HTB Cryptography.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1879 HTB TCP UDP Connections.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1878 HTB Vendor Specific Information.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1876 HTB Authentication Protocols.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1875 HTB Key Exchange Mechanisms.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1874 HTB Virtual Private Networks.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/1873 HTB Wireless Networks.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0482 HTB IPv6 Addresses.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0307 HTB MAC Addresses.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0305 HTB IP Addresses.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0304 HTB Network Layer.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0303 HTB TCP Model.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0302 HTB OSI Model.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0301 HTB Networking Models.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0300 HTB Proxies.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0299 HTB Networking Topologies.md",
+    "Technology Education/Courses/Hack The Box Academy/Networking/0298 HTB Network Types.md",
+    "Technology Education/Courses/Codecademy",
     "Journal/November 2023",
     "Journal/October 2023",
-    "Journal/November 2023/2023-11-19.md",
-    "Journal/November 2023/2023-11-18.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/0297 HTB Networking Intro.md",
     "Technology Education/Courses/Hack The Box Academy/Active Directory",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0700 HTB Active Directory Structure.md",
     "Technology Education/Courses/Hack The Box Academy/Networking",
-    "Technology Education/Courses/Hack The Box Academy/Networking/1878 HTB Vendor Specific Information.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/1874 HTB Virtual Private Networks.md",
-    "Technology Education/Courses/Hack The Box Academy/HackTheBox Academy Notes misc.md",
-    "Technology Education/Courses/Hack The Box Academy/Networking/1873 HTB Wireless Networks.md",
     "Technology Education/Notes/Home Network Setup and Security",
     "Technology Education/Notes/Pi-Hole",
     "Technology Education/Notes/TailScale",
     "Untitled.canvas",
     "Journal",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/049 Remote Access",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 2 (1102)/004 Operational Procedures/048 Scripting",
     "Untitled 1.canvas"
   ]
 }
