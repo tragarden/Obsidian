@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0726 HTB Service Scanning.md",
+                "file": "1872 HTB Common Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#VirtualBox",
+                "query": "tag:#SNMP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0726 HTB Service Scanning.md",
+                "file": "1872 HTB Common Protocols.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0726 HTB Service Scanning.md",
+                "file": "1872 HTB Common Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0726 HTB Service Scanning.md"
+                "file": "1872 HTB Common Protocols.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "a7233a7803515ffe",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0726 HTB Service Scanning.md",
+    "2023-12-10.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0847 HTB Basic Tools.md",
-    "0726 HTB Service Scanning.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0723 HTB Connecting with VPN.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0766 Staying Organized.md",
@@ -187,7 +188,6 @@
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0756 HTB Sensitive Data Exposure.md",
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0758 HTB XSS.md",
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0757 HTB HTML Injection.md",
-    "2023-12-10.md",
     "Untitled.canvas",
     "Journal/11 November 2023/2023-11-27.md",
     "Journal/11 November 2023/2023-11-15.md",

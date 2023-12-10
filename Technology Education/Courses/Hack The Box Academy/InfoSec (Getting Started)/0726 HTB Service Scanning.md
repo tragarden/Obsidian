@@ -88,3 +88,47 @@ We can use the following script smb-os-discovery.nse in our command to enumerate
 
 > nmap --script smb-os-discovery.nse -p445 10.10.10.10
 
+
+##### Shares
+
+#SMB can be used to share folders and resources to be accessed remotely. We can use the tool #smbclient to enumerate SMB shares on a given system.
+
+We can supply the following command to enumerate shares on a remote host. In the example, the -L flag specifies a list format for all available shares, and the -N flag is used to suppress the pending password prompt.
+
+> smbclient -N -L \\\\\\\\10.10.10.10
+
+This will reveal non-default share users, which means we will be able to log onto the guest user account:
+
+> smbclient \\\\\\\\10.10.10.10\\\\users
+
+The guest account is limited in what commands we can use - in fact, we cant even use the ' ls ' command under this account.
+
+We will instead try logging in with the account ' bob ', since we discovered the credentials during smbclient enumeration:
+
+> smbclient -U bob \\\\\\\\10.10.10.10\\\\users
+
+Submit the password (bob:Welcome1) to gain access to the bob user account.
+
+Now we can use ls to see files on the machine, which include a desirable target: passwords.txt.
+
+We can download this file with the following command:
+
+> get passwords.txt
+
+
+#### SNMP
+
+Simple Network Management Protocol ( #SNMP) can be used to discover statistic and details related to a #router or other network device. This protocol uses public and private community strings which can be problematic if they are set to a default configuration. Community strings are stored as plaintext, which means they are susceptible to discovery and an attacker can gain access to credentials.
+
+We can use the following command to begin enumerating information related to SNMP:
+
+> snmpwalk -v 2c -c public 10.10.10.10 1.3.6.1.2.1.1.5.0
+
+> snmpwalk -v 2c -c private 10.10.10.10
+
+This will tell us the public and private SNMP information that is available.
+
+We can use the #onesixtyone tool to brute force the community strings using a dictionary file of relevant community strings, which is available in the GitHub repository for onesixtyone.
+
+> onesixtyone -c dict.txt 10.10.10.10
+
