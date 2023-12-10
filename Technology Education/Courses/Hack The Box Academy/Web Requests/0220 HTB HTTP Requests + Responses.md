@@ -18,3 +18,12 @@ The body of the response will contain #HTML or #JSON code that can render the pa
 #### DevTools
 
 In your #browser is likely a set of applications known as #DevTools that are used by web developers and penetration testers to examine web requests.
+
+# GET Requests
+
+#GET requests are the default method that a #browser will use to obtain resources from a server. These requests can be examined in the #Network tab of your browser's DevTools.
+
+# POST Requests
+
+#POST requests are used in place of GET requests when the client is requesting a large amount of data. POST is better attuned for large file transfer because it requires less encoding and supports larger URL name. 
+
