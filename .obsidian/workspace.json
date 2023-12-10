@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a03023051da5f29",
+        "id": "6f8015f87180e04c",
         "type": "tabs",
         "children": [
           {
-            "id": "01e1530073a8f8e3",
+            "id": "a7233a7803515ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
+                "file": "0726 HTB Service Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
+                "file": "0726 HTB Service Scanning.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
+                "file": "0726 HTB Service Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md"
+                "file": "0726 HTB Service Scanning.md"
               }
             }
           },
@@ -168,10 +168,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d98fa0f2fb9efd23",
+  "active": "a7233a7803515ffe",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0723 HTB Connecting with VPN.md",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0847 HTB Basic Tools.md",
+    "0726 HTB Service Scanning.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0723 HTB Connecting with VPN.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0766 Staying Organized.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0721 HTB InfoSec Overview.md",
     "Untitled 1.md",
@@ -196,8 +198,6 @@
     "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/021 Ports and Protocols/121 Introduction to IP.md",
     "Technology Education/Courses/Hack The Box Academy/Active Directory/9999 Active Directory Bonus Content.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)",
-    "Journal/12 December 2023/2023-12-03.md",
-    "Technology Education/Courses/Hack The Box Academy/Web Applications/0753 HTB HTML CSS JavaScript.md",
     "Journal/12 December 2023",
     "Technology Education/Courses/Hack The Box Academy/Web Applications",
     "Technology Education/Courses/Hack The Box Academy/Web Requests",
