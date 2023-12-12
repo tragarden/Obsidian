@@ -52,6 +52,7 @@ To begin working with Hugo, we can use the following command to **create our fir
 
 This will generate a new folder within the C:\\Hugo\\bin\\ directory called "first_site".
 
+Change the current directory
 #### Site Directory Content
 
 Within this folder you will see several new folders which include:
@@ -96,3 +97,7 @@ Alternatively you can **download a zip file and extract the contents into the th
 - [Giraffe Academy YouTube Guide](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3 'A guide I followed to learn Hugo')
 - [Hugo Themes](https://themes.gohugo.io/ "Hugo Official Theme Page")
 - [Giraffe Academy Theme](https://github.com/giraffeacademy/ga-hugo-theme)
+
+
+
+WHEN CLONING THE REPO USE --depth=1 to ONLY grab the latest iteration of the repo instead of the entire repo history
