@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f8015f87180e04c",
+        "id": "5ab6e3d4a421632f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7233a7803515ffe",
+            "id": "32535b56a2b813ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1872 HTB Common Protocols.md",
+                "file": "0879 HTB Pentesting Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 236.5
   },
   "right": {
     "id": "2ba22d7c74477052",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1872 HTB Common Protocols.md",
+                "file": "0879 HTB Pentesting Introduction.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1872 HTB Common Protocols.md",
+                "file": "0879 HTB Pentesting Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,33 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1872 HTB Common Protocols.md"
+                "file": "0879 HTB Pentesting Introduction.md"
               }
-            }
-          },
-          {
-            "id": "115f6945febd1e7c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "89506b5ca414f5da",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +150,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a7233a7803515ffe",
+  "active": "32535b56a2b813ca",
   "lastOpenFiles": [
+    "0844 HTB Privilege Escalation.md",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0725 HTB Shell Types.md",
+    "0879 HTB Pentesting Introduction.md",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0843 HTB Public Exploits.md",
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0728 HTB Web Enumeration.md",
+    "README.md",
+    "1872 HTB Common Protocols.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0726 HTB Service Scanning.md",
     "2023-12-10.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0847 HTB Basic Tools.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0723 HTB Connecting with VPN.md",
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0766 Staying Organized.md",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0766 HTB Staying Organized.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0721 HTB InfoSec Overview.md",
     "Untitled 1.md",
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0763 HTB Public Vulnerabilities.md",
@@ -190,13 +180,6 @@
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0757 HTB HTML Injection.md",
     "Untitled.canvas",
     "Journal/11 November 2023/2023-11-27.md",
-    "Journal/11 November 2023/2023-11-15.md",
-    "Technology Education/Notes/Home Network Setup and Security/Network Security Guide.md",
-    "Technology Education/Notes/Pi-Hole/Pi-Hole.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1347 HTB Active Directory Terminology.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/026 Network Connections/226 DHCP Configuration.md",
-    "Technology Education/Courses/Professor Messer/A+/CompTIA A+ Core 1 (1101)/002 Networking/021 Ports and Protocols/121 Introduction to IP.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/9999 Active Directory Bonus Content.md",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)",
     "Journal/12 December 2023",
     "Technology Education/Courses/Hack The Box Academy/Web Applications",
@@ -206,7 +189,6 @@
     "Journal/10 October 2023",
     "Technology Education/Courses/Hack The Box Academy/Active Directory",
     "Technology Education/Courses/Hack The Box Academy/Networking",
-    "Technology Education/Notes/Home Network Setup and Security",
     "Untitled 1.canvas"
   ]
 }
