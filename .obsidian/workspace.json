@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ae48d0048a4a4b",
+        "id": "81d13e8164977e33",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc12f9a3fb2d7a6",
+            "id": "12fa6fa894b68d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0882 HTB Containers.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0906 HTB VPS Hardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0882 HTB Containers.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0906 HTB VPS Hardening.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0882 HTB Containers.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0906 HTB VPS Hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0882 HTB Containers.md"
+                "file": "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0906 HTB VPS Hardening.md"
               }
             }
           },
@@ -160,9 +160,13 @@
   },
   "active": "d98fa0f2fb9efd23",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0906 HTB VPS Hardening.md",
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0904 HTB VPS Setup.md",
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0901 HTB VPS Providers.md",
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0882 HTB Containers.md",
+    "0883 HTB Linux",
     "1872 HTB Common Protocols.md",
     "0844 HTB Privilege Escalation.md",
-    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0882 HTB Containers.md",
     "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0880 HTB Organization.md",
     "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0881 HTB Virtualization.md",
     "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0879 HTB Pentesting Introduction.md",
@@ -185,9 +189,6 @@
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0764 HTB Common Web Vulnerabilities.md",
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0762 HTB APIs and Frameworks.md",
     "Technology Education/Courses/Hack The Box Academy/Web Applications/0761 HTB Databases.md",
-    "Technology Education/Courses/Hack The Box Academy/Web Applications/0760 HTB Web Servers.md",
-    "Technology Education/Courses/Hack The Box Academy/Web Applications/0759 HTB Back End Servers.md",
-    "Technology Education/Courses/Hack The Box Academy/Web Applications/0828 HTB Cross-Site Request Forgery.md",
     "Untitled.canvas",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)",
     "Journal/12 December 2023",
@@ -196,7 +197,6 @@
     "Technology Education/Courses/Codecademy",
     "Journal/11 November 2023",
     "Journal/10 October 2023",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory",
     "Untitled 1.canvas"
   ]
 }
