@@ -4,5 +4,6 @@
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "translucency": false,
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "theme": "obsidian"
 }
