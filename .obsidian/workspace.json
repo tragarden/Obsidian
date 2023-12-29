@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8c45e6b9a96e669",
+            "id": "a39b7b648df9e020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0844 HTB Privilege Escalation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45a29140892c4227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1559 HTB Academy Modules.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0937 HTB Pre-Engagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1559 HTB Academy Modules.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0937 HTB Pre-Engagement.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1559 HTB Academy Modules.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0937 HTB Pre-Engagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1559 HTB Academy Modules.md"
+                "file": "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0937 HTB Pre-Engagement.md"
               }
             }
           },
@@ -183,8 +170,13 @@
   },
   "active": "d98fa0f2fb9efd23",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0844 HTB Privilege Escalation.md",
+    "Untitled.md",
+    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0937 HTB Pre-Engagement.md",
+    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1980 HTB Laws and Regulations.md",
+    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0935 HTB Pentesting Overview.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1559 HTB Academy Modules.md",
+    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0844 HTB Privilege Escalation.md",
+    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0936 Penetration Testing Process.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1569 HTB Penetration Tester Path.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0727 HTB Starting Out.md",
@@ -208,11 +200,6 @@
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0843 HTB Public Exploits.md",
     "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0726 HTB Service Scanning.md",
-    "2023-12-10.md",
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0847 HTB Basic Tools.md",
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0724 HTB Common Terms.md",
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0723 HTB Connecting with VPN.md",
-    "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)/0766 HTB Staying Organized.md",
     "Untitled.canvas",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)",
     "Journal/12 December 2023",
