@@ -18,43 +18,31 @@
             }
           },
           {
-            "id": "3c230962a155d1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine0011 HTB Crocodile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b31c7b529aed6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine0012 HTB Responder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6cd5d5ebc37ca36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
+                "file": "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0009 HTB Appointment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b307176b5c968e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0945 HTB Pentesting Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
+                "file": "0945 HTB Pentesting Practice.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
+                "file": "0945 HTB Pentesting Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md"
+                "file": "0945 HTB Pentesting Practice.md"
               }
             }
           },
@@ -193,20 +181,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f6cd5d5ebc37ca36",
+  "active": "b307176b5c968e4b",
   "lastOpenFiles": [
-    "Machine0013 HTB Three.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1362 HTB Incident Handling.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling",
+    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0009 HTB Appointment.md",
     "Machine0012 HTB Responder.md",
     "Machine0011 HTB Crocodile.md",
+    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0001 HTB Meow.md",
+    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
+    "Machine0013 HTB Three.md",
     "Machine0010 HTB Sequel.md",
-    "Machine0009 HTB Appointment.md",
     "Machine0008 HTB Synced.md",
     "Machine0007 HTB Mongod.md",
     "Machine0006 HTB Preignition.md",
     "Machine0005 HTB Explosion.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0004 HTB Redeemer.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0001 HTB Meow.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0002 HTB Fawn.md",
     "Technology Education/Courses/Hack The Box Academy/Active Directory/0702 HTB Active Directory Groups.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs",
@@ -221,8 +211,6 @@
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0940 HTB Post-Exploitation.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0939 HTB Vulnerability Assessment.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0938 HTB Information Gathering.md",
-    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0937 HTB Pre-Engagement.md",
-    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/1980 HTB Laws and Regulations.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
     "0883 HTB Linux",
     "Technology Education/Notes/HUGO",
@@ -231,7 +219,6 @@
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)",
     "Journal/12 December 2023",
     "Technology Education/Courses/Hack The Box Academy/Web Applications",
-    "Technology Education/Courses/Hack The Box Academy/Web Requests",
     "Untitled 1.canvas"
   ]
 }
