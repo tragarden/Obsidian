@@ -51,3 +51,14 @@ If we **use the ls command in the home directory we can see a file flag.txt**. T
 >cat flag.txt
 
 This will reveal the hash value to complete this machine.
+
+
+
+
+
+
+
+### Related:
+
+- [0728 HTB Web Enumeration](0728%20HTB%20Web%20Enumeration.md)
+- [0764 HTB Common Web Vulnerabilities](0764%20HTB%20Common%20Web%20Vulnerabilities.md)
