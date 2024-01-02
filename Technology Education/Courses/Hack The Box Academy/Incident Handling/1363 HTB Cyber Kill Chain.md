@@ -52,7 +52,8 @@ The *Action* stage is the objective of the  attacker - this is **when they accom
 
 
 ### Related:
-- [HTB Academy](https://academy.hackthebox.com/ 'HTB Academy home page')
+
+- [HTB Academy Home Page](https://academy.hackthebox.com/ 'HTB Academy home page')
 - [HTB Cyber Kill Chain 1363](https://academy.hackthebox.com/module/148/section/1363 "HTB Academy module on cyber kill chain")
 - [024 Social Engineering](024%20Social%20Engineering.md)
 - [0938 HTB Information Gathering](0938%20HTB%20Information%20Gathering.md)

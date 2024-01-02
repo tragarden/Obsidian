@@ -54,7 +54,6 @@ It is vital to have a *Jump Bag* with all relevant tools and means of documentin
 
 ### Related:
 
-
 - [HTB Academy Home Page](https://academy.hackthebox.com/ 'HTB academy home page')
 - [HTB Academy Prep Module](https://academy.hackthebox.com/module/148/section/1366 'HTB academy module page')
 - [0299 HTB Networking Topologies](0299%20HTB%20Networking%20Topologies.md)

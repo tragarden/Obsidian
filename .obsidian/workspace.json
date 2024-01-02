@@ -18,18 +18,31 @@
             }
           },
           {
-            "id": "884dad3a3653da36",
+            "id": "6d96031c7e572236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1366 HTB Preparation Stage Part 2.md",
+                "file": "0850 HTB Nibbles - Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "615193dfd2add9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0850 HTB Nibbles - Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "escalation",
+                "query": "tag:#reliabilitymonitor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0850 HTB Nibbles - Enumeration.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0850 HTB Nibbles - Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0850 HTB Nibbles - Enumeration.md"
+              }
             }
           },
           {
@@ -163,15 +180,21 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "151c655d8ca717ba",
+  "active": "6d96031c7e572236",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/HTB 1370 Post-Incident Activity Stage.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1366 HTB Preparation Stage Part 2.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1367 HTB Detection and Analysis Part 1.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1368 HTB Detection and Analysis Part 2.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1369 HTB Containment, Eradication, & Recovery.md",
+    "0850 HTB Nibbles - Enumeration.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1365 HTB Preparation Stage Part 1.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1363 HTB Cyber Kill Chain.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1364 HTB Incident Process Overview.md",
+    "Machine0013 HTB Three.md",
+    "Technology Education/Courses/Hack The Box Academy/1362 HTB Incident Handling.md",
     "Technology Education/README.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0009 HTB Appointment.md",
-    "1366 HTB Preparation Stage Part 2.md",
-    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1363 HTB Cyber Kill Chain.md",
-    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1362 HTB Incident Handling.md",
-    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1364 HTB Incident Process Overview.md",
-    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1365 HTB Preparation Stage Part 1.md",
     "1872 HTB Common Protocols.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0945 HTB Pentesting Practice.md",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling",
@@ -179,7 +202,6 @@
     "Machine0011 HTB Crocodile.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0001 HTB Meow.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
-    "Machine0013 HTB Three.md",
     "Machine0010 HTB Sequel.md",
     "Machine0008 HTB Synced.md",
     "Machine0007 HTB Mongod.md",
@@ -187,13 +209,8 @@
     "Machine0005 HTB Explosion.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0004 HTB Redeemer.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0002 HTB Fawn.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0702 HTB Active Directory Groups.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs",
     "Technology Education/Courses/Hack The Box",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0701 HTB Kerberos, DNS, LDAP, MSRPC.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0700 HTB Active Directory Structure.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/1347 HTB Active Directory Terminology.md",
-    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0944 HTB Post-Engagement.md",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
     "0883 HTB Linux",
     "Technology Education/Notes/HUGO",
