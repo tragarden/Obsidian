@@ -18,18 +18,31 @@
             }
           },
           {
-            "id": "615193dfd2add9a6",
+            "id": "0d8a25d239eb9933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0850 HTB Nibbles - Enumeration.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1160 HTB Security Assessments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70292d72fcba93c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1161 HTB Vulnerability Assessment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1161 HTB Vulnerability Assessment.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1161 HTB Vulnerability Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1161 HTB Vulnerability Assessment.md"
+              }
             }
           },
           {
@@ -163,8 +180,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "19890619ba6165ef",
+  "active": "70292d72fcba93c8",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1160 HTB Security Assessments.md",
+    "1161 HTB Vulnerability Assessment.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment",
     "0850 HTB Nibbles - Enumeration.md",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling/HTB 1370 Post-Incident Activity Stage.md",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling/1366 HTB Preparation Stage Part 2.md",
@@ -190,8 +210,6 @@
     "Machine0007 HTB Mongod.md",
     "Machine0006 HTB Preignition.md",
     "Machine0005 HTB Explosion.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0004 HTB Redeemer.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0002 HTB Fawn.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs",
     "Technology Education/Courses/Hack The Box",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
@@ -201,7 +219,6 @@
     "Untitled.canvas",
     "Technology Education/Courses/Hack The Box Academy/InfoSec (Getting Started)",
     "Journal/12 December 2023",
-    "Technology Education/Courses/Hack The Box Academy/Web Applications",
     "Untitled 1.canvas"
   ]
 }
