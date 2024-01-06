@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "0d8a25d239eb9933",
+            "id": "16628dfd34500db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1160 HTB Security Assessments.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1161 HTB Vulnerability Assessment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70292d72fcba93c8",
+            "id": "3307e5777efddfbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1161 HTB Vulnerability Assessment.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1161 HTB Vulnerability Assessment.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1161 HTB Vulnerability Assessment.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1161 HTB Vulnerability Assessment.md"
+                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md"
               }
             }
           },
@@ -180,10 +180,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "70292d72fcba93c8",
+  "active": "3307e5777efddfbb",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1161 HTB Vulnerability Assessment.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1160 HTB Security Assessments.md",
-    "1161 HTB Vulnerability Assessment.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1027 HTB Assessment Standards.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment",
     "0850 HTB Nibbles - Enumeration.md",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling/HTB 1370 Post-Incident Activity Stage.md",
@@ -208,8 +210,6 @@
     "Machine0010 HTB Sequel.md",
     "Machine0008 HTB Synced.md",
     "Machine0007 HTB Mongod.md",
-    "Machine0006 HTB Preignition.md",
-    "Machine0005 HTB Explosion.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs",
     "Technology Education/Courses/Hack The Box",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
