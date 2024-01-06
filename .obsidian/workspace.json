@@ -16,33 +16,8 @@
                 "currentVersion": "1.5.3"
               }
             }
-          },
-          {
-            "id": "16628dfd34500db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1161 HTB Vulnerability Assessment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3307e5777efddfbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,11 +151,23 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3307e5777efddfbb",
+  "active": "151c655d8ca717ba",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1161 HTB Vulnerability Assessment.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1233 HTB Nessus Skill Assessment.md",
+    "1463 HTB OpenVAS Scan.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1026 HTB Starting with OpenVAS.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1231 HTB Getting Started with Nessus.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1029 HTB Nessus Scan.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1160 HTB Security Assessments.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1024 HTB Nessus Scan Output.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1028 HTB Nessus Scanning Issues.md",
+    "Resources I Used for Tech Ed.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1232 HTB Nessus Advanced Settings.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1230 HTB Vulnerability Scanning Overview.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1161 HTB Vulnerability Assessment.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1229 HTB Common Vulnerabilities and Exposures CVE.md",
+    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1362 HTB Incident Handling.md",
+    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1027 HTB Assessment Standards.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment",
     "0850 HTB Nibbles - Enumeration.md",
@@ -197,19 +180,7 @@
     "Technology Education/Courses/Hack The Box Academy/Incident Handling/1363 HTB Cyber Kill Chain.md",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling/1364 HTB Incident Process Overview.md",
     "Machine0013 HTB Three.md",
-    "Technology Education/Courses/Hack The Box Academy/1362 HTB Incident Handling.md",
-    "Technology Education/README.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0009 HTB Appointment.md",
-    "1872 HTB Common Protocols.md",
-    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0945 HTB Pentesting Practice.md",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling",
-    "Machine0012 HTB Responder.md",
-    "Machine0011 HTB Crocodile.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0001 HTB Meow.md",
-    "Technology Education/Courses/Hack The Box/HTB Walkthroughs/Machine0003 HTB Dancing.md",
-    "Machine0010 HTB Sequel.md",
-    "Machine0008 HTB Synced.md",
-    "Machine0007 HTB Mongod.md",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs",
     "Technology Education/Courses/Hack The Box",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
