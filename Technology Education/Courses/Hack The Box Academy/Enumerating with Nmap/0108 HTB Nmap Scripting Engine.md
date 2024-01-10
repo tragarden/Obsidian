@@ -1,6 +1,6 @@
 # Nmap Scripting Engine
 
-#Nmap Scripting Engine ( #NSE) makes it possible to execute scripts in the #Lua language. There are 17 different categories these scripts are sorted into:
+#Nmap *Scripting Engine* ( #NSE) makes it possible to execute scripts in the #Lua language. There are 17 different categories these scripts are sorted into:
 
 1. auth - authentication credentials
 2. broadcast - host discovery via broadcasting
@@ -47,8 +47,20 @@ We can use the -A flag to perform an aggressive scan. This option will invoke se
 
 #### Vuln
 
-We can use the vuln option to detect vulnerabilities on port 80 with nmap:
+We can use the *vuln* option to detect vulnerabilities on port 80 with nmap:
 
 >sudo nmap 10.10.2.28 -p 80 -sV --script vuln
 
 This should return output with version information and any related known vulnerabilities.
+
+### Related:
+
+- [Hack The Box Academy](https://academy.hackthebox.com/ 'hack the box academy home page')
+- [HTB Academy Nmap Scripting Engine](https://academy.hackthebox.com/module/19/section/108 'HTB academy  nmap scripting engine')
+- [026 Security Best Practices](026%20Security%20Best%20Practices.md)
+- [048 Scripting Use Cases](048%20Scripting%20Use%20Cases.md)
+- [048 Scripting Languages](048%20Scripting%20Languages.md)
+- [057 Troubleshooting Networks](057%20Troubleshooting%20Networks.md)
+- [128 Network Tools](128%20Network%20Tools.md)
+- [221 Common Network Ports](221%20Common%20Network%20Ports.md)
+- [Network Security Guide](Network%20Security%20Guide.md)

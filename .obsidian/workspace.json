@@ -10,11 +10,13 @@
           {
             "id": "151c655d8ca717ba",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.3"
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reliabilitymonitor",
+                "query": "tag:#DNS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "2ba22d7c74477052",
@@ -153,15 +156,28 @@
   },
   "active": "151c655d8ca717ba",
   "lastOpenFiles": [
+    "1609 HTB CMD Navigation.md",
+    "1607 HTB Getting Help with Command Line.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0108 HTB Nmap Scripting Engine.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0101 HTB Host Discovery.md",
+    "1604 HTB Command Prompt and PowerShell.md",
+    "1606 HTB Command Prompt Basics.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0106 HTB Evading Firewall and IDS.md",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0118 HTB IDS Evasion MEDIUM LAB.md",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0105 HTB Nmap Performance.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0104 HTB Saving Nmap Results.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0103 HTB Service Enumeration Nmap.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0102 HTB Host and Port Scanning.md",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0101 HTB Host Discovery.md",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0100 HTB Introduction to Nmap.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0099 HTB Enumeration.md",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0119 HTB IDS Evasion HARD LAB.md",
+    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0117 HTB IDS Evasion EASY LAB.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0381 HTB Metasploit Preface.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0383 HTB Metasploit Introduction.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1516 HTB OpenVAS Skills Assessment.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0100 HTB Introduction to Nmap.md",
     "Technology Education/README.md",
     "WORKS IN PROGRESS/0850 HTB Nibbles - Enumeration.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1030 HTB Reporting Scans.md",
@@ -171,24 +187,11 @@
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1463 HTB OpenVAS Scan.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1233 HTB Nessus Skill Assessment.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1231 HTB Getting Started with Nessus.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1029 HTB Nessus Scan.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1160 HTB Security Assessments.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1024 HTB Nessus Scan Output.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1028 HTB Nessus Scanning Issues.md",
-    "Resources I Used for Tech Ed.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1232 HTB Nessus Advanced Settings.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1230 HTB Vulnerability Scanning Overview.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1161 HTB Vulnerability Assessment.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1229 HTB Common Vulnerabilities and Exposures CVE.md",
-    "Technology Education/Courses/Hack The Box Academy/Incident Handling/1362 HTB Incident Handling.md",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1228 HTB Common Vulnerability Scoring System CVSS.md",
     "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment",
     "Technology Education/Courses/Hack The Box Academy/Incident Handling",
     "Technology Education/Courses/Hack The Box/HTB Walkthroughs",
     "Technology Education/Courses/Hack The Box",
     "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process",
-    "0883 HTB Linux",
-    "Technology Education/Notes/HUGO",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

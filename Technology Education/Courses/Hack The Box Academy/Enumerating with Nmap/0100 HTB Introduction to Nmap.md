@@ -1,22 +1,22 @@
 # Introduction to Nmap
 
-Network Mapper ( #Nmap) is a free and open-source ( #FOSS) network analysis tool used to scan networks to determine ports in use and the name and version of services running on each port. Nmap is written in C, C++, Python, and Lua.
+*Network Mapper* ( #Nmap) is a *free and open-source* ( #FOSS) network analysis tool used to **scan networks to determine ports in use and the name and version of services** running on each port. Nmap is ***written in C, C++, Python, and Lua***.
 
 ### Use Cases
 
-Nmap is one of the most frequently used tools for any person working in cybersecurity. There are many applications for this tool, including but not limited to:
+#Nmap is one of the most frequently used tools for any person working in #cybersecurity. There are many applications for this tool, including but not limited to:
 
-- Security Auditing
-- Network Auditing
+- #Security Auditing
+- #Network Auditing
 - Penetration Testing
-- Checking Firewall configurations
+- Checking #Firewall configurations
 - Checking Intrusion Detection Systems ( #IDS)
 - Determining connection types
 - Network mapping
 - Response Analysis
 - Determining open ports
 - Identifying active services
-- Determining operating systems
+- Determining operating systems ( #OS)
 - Vulnerability Assessment
 
 #### Nmap Design
@@ -24,10 +24,10 @@ Nmap is one of the most frequently used tools for any person working in cybersec
 There are five scan types available within Nmap:
 
 - Host Discovery
-- Port Scanning
+- #Port Scanning
 - Service Detection 
 - Operating System ( #OS) Detection
-- Nmap Scripting Engine
+- Nmap Scripting Engine ( #NSE)
 
 #### Syntax
 
@@ -43,13 +43,13 @@ Here we can see all of the techniques represented by their associated option fla
 
 #### TCP-SYN 
 
-The #TCP-SYN scan is represented by the -sS flag and is used by default unless otherwise specified by the user. This scans thousands of ports per second by sending a #SYN #packet to the scanned port, actively avoiding the three-way handshake and never establishing the full #TCP connection.
+The #TCP-SYN scan is represented by the -sS flag and is used by default unless otherwise specified by the user. This **scans thousands of ports per second** by sending a #SYN #packet to the scanned port, actively **avoiding the three-way handshake** and never establishing the full #TCP connection.
 
-If the target host in our scan responds with a #SYN-ACK packet, nmap will describe the #port as open. 
+If the target host in our scan responds with a #SYN-ACK packet, nmap will describe the #port as ***open***. 
 
-If the target host responds with an #RST flag, nmap will describe the port as closed.
+If the target host responds with an #RST flag, nmap will describe the port as ***closed***.
 
-If no packet is returned by the host, nmap will describe this port as filtered. This response often indicates the presence of a firewall.
+If no #packet is returned by the host, nmap will describe this port as ***filtered***. This response often **indicates the presence of a firewall**.
 
 We can execute a #TCP-SYN scan with the following command:
 
@@ -63,3 +63,12 @@ The results will be provided in a table format similar to the following:
 | 80/tcp            | open       | http        |
 | 5432/tcp            | open       | postgresql        |
 | 5901            | open       | vnc-1        |
+### Related:
+
+- [Hack The Box Academy](https://academy.hackthebox.com/ 'hack the box academy home page')
+- [HTB Academy Nmap Introduction](https://academy.hackthebox.com/module/19/section/100 'HTB academy introduction with nmap')
+- [026 Security Best Practices](026%20Security%20Best%20Practices.md)
+- [057 Troubleshooting Networks](057%20Troubleshooting%20Networks.md)
+- [128 Network Tools](128%20Network%20Tools.md)
+- [221 Common Network Ports](221%20Common%20Network%20Ports.md)
+- [Network Security Guide](Network%20Security%20Guide.md)
