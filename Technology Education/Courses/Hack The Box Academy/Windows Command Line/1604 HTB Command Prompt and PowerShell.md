@@ -18,6 +18,7 @@
 To connect to the Windows hosts throughout these modules, use the following command:
 
 >ssh htb-student\@10.10.10.10 
+>p: HTB_\@cademy_stdnt!
 
 ### Related:
 
