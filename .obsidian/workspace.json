@@ -20,55 +20,31 @@
             }
           },
           {
-            "id": "554ee6300c45b132",
+            "id": "459db8e96d817d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1614 HTB Finding Files and Directories.md",
+                "file": "1621 HTB PowerShell Finding and Filtering.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5272487bb425f62",
+            "id": "0be8dbd299e1f31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1611 HTB Environment Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0553de9ba5ed5fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1612 HTB Managing Windows Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3270d017a414e515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1613 HTB Windows Scheduled Tasks.md",
+                "file": "1622 HTB PowerShell Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1613 HTB Windows Scheduled Tasks.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1613 HTB Windows Scheduled Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1613 HTB Windows Scheduled Tasks.md"
+                "file": "dreams and childhood trauma.md"
               }
             }
           },
@@ -208,21 +182,30 @@
   },
   "active": "d98fa0f2fb9efd23",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1612 HTB Managing Windows Services.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1613 HTB Windows Scheduled Tasks.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1611 HTB Environment Variables.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1614 HTB Finding Files and Directories.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1610 HTB CMD Directories and Files.md",
+    "1622 HTB PowerShell Services.md",
+    "dreams and childhood trauma.md",
+    "1621 HTB PowerShell Finding and Filtering.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1636 HTB PowerShell Modules and CMDlets.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1619 HTB PowerShell Files and Directories.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1618 HTB PowerShell User and Group Management.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1616 CMD vs PowerShell.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1614 HTB Finding Files and Directories.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1606 HTB Command Prompt Basics.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1612 HTB Managing Windows Services.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1604 HTB Command Prompt and PowerShell.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1606 HTB Command Prompt Basics.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1608 HTB Gathering System Information.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1613 HTB Windows Scheduled Tasks.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1611 HTB Environment Variables.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1610 HTB CMD Directories and Files.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1608 HTB Gathering System Information.md",
     "bio.txt",
     "newdemo.txt",
     "demo.txt",
     "here.txt",
     "Technology Education/Courses/Hack The Box Academy/HackTheBox Academy Notes misc.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1609 HTB CMD Navigation.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1607 HTB Getting Help with Command Line.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1609 HTB CMD Navigation.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1607 HTB Getting Help with Command Line.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0108 HTB Nmap Scripting Engine.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0106 HTB Evading Firewall and IDS.md",
@@ -232,18 +215,9 @@
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0103 HTB Service Enumeration Nmap.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0102 HTB Host and Port Scanning.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0101 HTB Host Discovery.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0100 HTB Introduction to Nmap.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0099 HTB Enumeration.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0119 HTB IDS Evasion HARD LAB.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0117 HTB IDS Evasion EASY LAB.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0381 HTB Metasploit Preface.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0383 HTB Metasploit Introduction.md",
     "Technology Education/Courses/Hack The Box Academy/Metasploit Framework",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment/1516 HTB OpenVAS Skills Assessment.md",
     "WORKS IN PROGRESS",
-    "Technology Education/Courses/Hack The Box Academy/Network Enumeration with Nmap",
-    "Technology Education/Courses/Hack The Box Academy/Vulnerability Assessment",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
