@@ -20,31 +20,18 @@
             }
           },
           {
-            "id": "459db8e96d817d7f",
+            "id": "c260f831c230cbde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1621 HTB PowerShell Finding and Filtering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be8dbd299e1f31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1622 HTB PowerShell Services.md",
+                "file": "1626 HTB PowerShell Network Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -147,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dreams and childhood trauma.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,11 +145,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +167,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d98fa0f2fb9efd23",
+  "active": "151c655d8ca717ba",
   "lastOpenFiles": [
-    "1622 HTB PowerShell Services.md",
-    "dreams and childhood trauma.md",
-    "1621 HTB PowerShell Finding and Filtering.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1622 HTB PowerShell Services.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1623 HTB PowerShell Registry.md",
+    "1626 HTB PowerShell Network Management.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1615 HTB PowerShell Windows Event Log.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1636 HTB PowerShell Modules and CMDlets.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1621 HTB PowerShell Finding and Filtering.md",
+    "dreams and childhood trauma.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1619 HTB PowerShell Files and Directories.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1618 HTB PowerShell User and Group Management.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1616 CMD vs PowerShell.md",
@@ -212,9 +202,6 @@
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0118 HTB IDS Evasion MEDIUM LAB.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0105 HTB Nmap Performance.md",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0104 HTB Saving Nmap Results.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0103 HTB Service Enumeration Nmap.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0102 HTB Host and Port Scanning.md",
-    "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap/0101 HTB Host Discovery.md",
     "Technology Education/Courses/Hack The Box Academy/Metasploit Framework",
     "Technology Education/Courses/Hack The Box Academy/Enumerating with Nmap",
     "WORKS IN PROGRESS",
