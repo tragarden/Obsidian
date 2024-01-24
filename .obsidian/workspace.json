@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "81191c2928535a96",
+            "id": "467534f1c2e12f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1630 HTB PowerShell Scripting and Automation.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1626 HTB PowerShell Network Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bec460d81b89fa60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1630 HTB PowerShell Scripting and Automation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DNS",
+                "query": "domain controller",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1630 HTB PowerShell Scripting and Automation.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1630 HTB PowerShell Scripting and Automation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1630 HTB PowerShell Scripting and Automation.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1630 HTB PowerShell Scripting and Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1630 HTB PowerShell Scripting and Automation.md"
+                "file": "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1630 HTB PowerShell Scripting and Automation.md"
               }
             }
           },
@@ -172,19 +184,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "81191c2928535a96",
+  "active": "d98fa0f2fb9efd23",
   "lastOpenFiles": [
-    "1630 HTB PowerShell Scripting and Automation.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1626 HTB PowerShell Network Management.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1627 HTB PowerShell Web Interaction.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1636 HTB PowerShell Modules and CMDlets.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1622 HTB PowerShell Services.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1623 HTB PowerShell Registry.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1630 HTB PowerShell Scripting and Automation.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1615 HTB PowerShell Windows Event Log.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1626 HTB PowerShell Network Management.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1618 HTB PowerShell User and Group Management.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1623 HTB PowerShell Registry.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1613 HTB Windows Scheduled Tasks.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1627 HTB PowerShell Web Interaction.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1619 HTB PowerShell Files and Directories.md",
+    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1622 HTB PowerShell Services.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1621 HTB PowerShell Finding and Filtering.md",
     "dreams and childhood trauma.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1619 HTB PowerShell Files and Directories.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1618 HTB PowerShell User and Group Management.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1616 CMD vs PowerShell.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1614 HTB Finding Files and Directories.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1606 HTB Command Prompt Basics.md",
@@ -192,7 +205,6 @@
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1604 HTB Command Prompt and PowerShell.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1613 HTB Windows Scheduled Tasks.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1611 HTB Environment Variables.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1610 HTB CMD Directories and Files.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1608 HTB Gathering System Information.md",
