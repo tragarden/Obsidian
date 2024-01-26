@@ -32,6 +32,66 @@
             }
           },
           {
+            "id": "9ba15efe202852b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0407 HTB Metasploit Payloads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff32e39695a70967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0409 HTB Metasploit Encoders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b1ff74a0df023d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0411 HTB Metasploit Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31ab6388b0350ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0413 HTB Metasploit Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75ca87144d08cc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0415 HTB Metasploit Sessions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2db2c3dbe4c9380f",
             "type": "leaf",
             "state": {
@@ -61,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0408 HTB Metasploit Targets.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0408 HTB Metasploit Targets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0408 HTB Metasploit Targets.md",
+                "file": "0415 HTB Metasploit Sessions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0408 HTB Metasploit Targets.md",
+                "file": "0415 HTB Metasploit Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0408 HTB Metasploit Targets.md"
+                "file": "0415 HTB Metasploit Sessions.md"
               }
             }
           },
@@ -208,12 +268,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "dee4919202147492",
+  "active": "75ca87144d08cc9b",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0404 HTB Metasploit Modules.md",
-    "0408 HTB Metasploit Targets.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0384 HTB MSFconsole Introduction.md",
+    "0413 HTB Metasploit Plugins.md",
+    "0415 HTB Metasploit Sessions.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0411 HTB Metasploit Databases.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0409 HTB Metasploit Encoders.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0407 HTB Metasploit Payloads.md",
     "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0383 HTB Metasploit Introduction.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0408 HTB Metasploit Targets.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0404 HTB Metasploit Modules.md",
+    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0384 HTB MSFconsole Introduction.md",
     "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0381 HTB Metasploit Preface.md",
     "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting/2584 HTB Incident Report Example.md",
     "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting/HTB 2581 Elements of incident Reports.md",
@@ -232,12 +297,7 @@
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1622 HTB PowerShell Services.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1621 HTB PowerShell Finding and Filtering.md",
     "dreams and childhood trauma.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1616 CMD vs PowerShell.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1614 HTB Finding Files and Directories.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1606 HTB Command Prompt Basics.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt/1612 HTB Managing Windows Services.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/1604 HTB Command Prompt and PowerShell.md",
     "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt",
     "bio.txt",
     "newdemo.txt",
