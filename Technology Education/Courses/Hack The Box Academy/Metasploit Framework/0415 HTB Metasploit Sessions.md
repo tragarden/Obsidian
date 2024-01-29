@@ -28,3 +28,14 @@ Use the -h switch to view more information related to the jobs command:
 
 >jobs -h
 
+#### Exploit Command Help Menu
+
+To run an exploit as a job, we use the -j switch to run it in the context of a job. Within that menu we can run the exploit command with the -h switch to see the help menu for jobs.
+
+>exploit -j
+>exploit -h
+
+To list all the current jobs, use the -l switch to list them:
+
+>jobs -l
+
