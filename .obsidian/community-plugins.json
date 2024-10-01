@@ -1,13 +1,4 @@
 [
-  "hotkeysplus-obsidian",
-  "obsidian-mind-map",
-  "better-word-count",
   "table-editor-obsidian",
-  "smart-random-note",
-  "note-refactor-obsidian",
-  "review-obsidian",
-  "nldates-obsidian",
-  "calendar",
-  "url-into-selection",
-  "obsidian-textgenerator-plugin"
+  "cmenu-plugin"
 ]

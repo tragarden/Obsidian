@@ -1,9 +1,4 @@
 {
-  "accentColor": "#5ce3f5",
-  "baseFontSize": 13,
-  "baseFontSizeAction": true,
-  "nativeMenus": false,
-  "translucency": false,
-  "cssTheme": "Atom",
+  "accentColor": "",
   "theme": "obsidian"
 }

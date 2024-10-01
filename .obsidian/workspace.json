@@ -1,64 +1,35 @@
 {
   "main": {
-    "id": "b8c6cccaf795773d",
+    "id": "9120e448a1b7a984",
     "type": "split",
     "children": [
       {
-        "id": "9a0ac85256494e6a",
+        "id": "51eb29f59c26c7b4",
         "type": "tabs",
         "children": [
           {
-            "id": "151c655d8ca717ba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "040c1155ea4c6ae2",
+            "id": "a9ee277b3a6ca2d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0123 HTB Bourne Again Shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85a48c7fd109b971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "675310404c3ee935",
+    "id": "16cc366ffcc7f596",
     "type": "split",
     "children": [
       {
-        "id": "15bc62ee6e7952a8",
+        "id": "0c80a672d82cdb3c",
         "type": "tabs",
         "children": [
           {
-            "id": "d98fa0f2fb9efd23",
+            "id": "6504ab2f14b40825",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +39,12 @@
             }
           },
           {
-            "id": "ad2101941ef605b3",
+            "id": "3cd9cb37fe485163",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "pii",
+                "query": "hardware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +54,7 @@
             }
           },
           {
-            "id": "441d0ddd5b1f6d22",
+            "id": "3bb6e1af3c92ee01",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,68 +65,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 418.5
   },
   "right": {
-    "id": "2ba22d7c74477052",
+    "id": "f6fbd712b96a8ed3",
     "type": "split",
     "children": [
       {
-        "id": "fbf566a3f335a4b7",
+        "id": "411017e62b4cea29",
         "type": "tabs",
         "children": [
           {
-            "id": "19890619ba6165ef",
+            "id": "6a3504acd76c87ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0123 HTB Bourne Again Shell.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2479613c91f0158b",
+            "id": "edb93508b800eea3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0123 HTB Bourne Again Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d8c38c6100091dd6",
+            "id": "aff94b4640b980f4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "b625ad20e46fa472",
+            "id": "cd61e61e7db0ecd7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0123 HTB Bourne Again Shell.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "3e45cb53ac5bb278",
+            "id": "4e805508117bded7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8af3961a50174ab",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -163,65 +138,70 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "smart-random-note:Open Random Note from Search": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "040c1155ea4c6ae2",
+  "active": "a9ee277b3a6ca2d6",
   "lastOpenFiles": [
-    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Coursera Google Certification Module 2.md",
-    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Coursera Google Certification Module 1.md",
-    "Technology Education/Courses/Coursera/Google CyberSecurity Certification",
-    "Technology Education/Courses/Coursera",
-    "Untitled.md",
-    "Technology Education/Courses/Hack The Box Academy/Penetration Testing Process/0935 HTB Pentesting Overview.md",
+    "Tech Education Milestones.md",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 7 Automate with Python/Course 7 Stats and Resources.md",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 7 Automate with Python/Course 7 Module 4 Coursera Google Certification.md",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 2 Risk Management/Course 2 Module 1 Coursera Google Certification.md",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 2 Risk Management/Course 2 Module 2 Coursera Google Certification.md",
+    "Technology Education/Courses/Hack The Box Academy/HackTheBox Academy Notes misc.md",
+    "Protein.md",
+    "Khan Academy/Math/Algebra 1/Unit 2/0201 KA Balancing Equations.md",
+    "Khan Academy/Math/Algebra 1/Unit 3",
+    "Khan Academy/Math/Algebra 1/Unit 2/0202 KA Linear Equations with Parentheses.md",
+    "Khan Academy/Math/Algebra 1/Unit 1/0105 KA Equivalent Expressions.md",
+    "Khan Academy/Math/Algebra 1/Unit 2",
+    "Khan Academy/Math/Algebra 1/Unit 1/0106 KA Division by Zero.md",
+    "Khan Academy/Math/Algebra 1/Unit 1/0104 KA Combining Like Terms.md",
     "0123 HTB Bourne Again Shell.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0414 HTB Metasploit Meterpreter.md",
-    "0417 HTB Writing Metasploit Modules.md",
-    "Technology Education/Courses/Hack The Box Academy/JavaScript Deobfuscation/0441 HTB JavaScript Source Code.md",
-    "Technology Education/Courses/Hack The Box Academy/JavaScript Deobfuscation/0440 HTB JavaScript Code Obfuscation.md",
-    "Technology Education/Courses/Hack The Box Academy/JavaScript Deobfuscation",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0415 HTB Metasploit Sessions.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0407 HTB Metasploit Payloads.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0408 HTB Metasploit Targets.md",
-    "Technology Education/Courses/Codecademy/0001 CodeCademy GO.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0383 HTB Metasploit Introduction.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0413 HTB Metasploit Plugins.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0411 HTB Metasploit Databases.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0409 HTB Metasploit Encoders.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0404 HTB Metasploit Modules.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0384 HTB MSFconsole Introduction.md",
-    "Technology Education/Courses/Hack The Box Academy/Metasploit Framework/0381 HTB Metasploit Preface.md",
-    "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting/2584 HTB Incident Report Example.md",
-    "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting/HTB 2581 Elements of incident Reports.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1630 HTB PowerShell Scripting and Automation.md",
-    "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting/HTB 2582 Incident Reporting Process.md",
-    "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting/2583 HTB Incident Communications.md",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell/1626 HTB PowerShell Network Management.md",
-    "Technology Education/Courses/Hack The Box Academy/Security Incident Reporting",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows PowerShell",
-    "Technology Education/Courses/Hack The Box Academy/Windows Command Line/Windows Command Prompt",
-    "bio.txt",
-    "newdemo.txt",
-    "demo.txt",
-    "here.txt",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Math/Khan Academy/Algebra 1/Unit 1/0103 Substitution and Evaluation.md",
+    "Khan Academy/Math/Algebra 1/Unit 1/0102 KA Introduction to Variables.md",
+    "Khan Academy/Math/Algebra 1/Unit 1/0101 KA Algebra Overview and History.md",
+    "Khan Academy/Math/Algebra 1/Unit 1",
+    "fOo7WK4oSLiqO1iuKAi4fA_5dc969b7e4fa4c6aacd5b2fcb40cc1f1_02_AND-Gate-.png",
+    "WORKS IN PROGRESS/0850 HTB Nibbles - Enumeration.md",
+    "Khan Academy/Math/Algebra 1",
+    "Khan Academy/Math",
+    "Khan Academy",
+    "Excalidraw/Zero-Trust Flowchart ED.md",
+    "Pasted image 20240628155232.png",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 5 Assets Threats Vulns/Course 5 Module 1 Coursera Google Certification.md",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 5/Course 5 Module 1 Coursera Google Certification.md",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 5 Assets Threats Vulns/Course 5 Module 2 Coursera Google Certification.md",
+    "Technology Education/Courses/Portfolio/Asset Audit.md",
+    "Technology Education/Courses/Portfolio/Security Audit for Portfolio.md",
+    "Technology Education/Courses/Hack The Box Academy/DNS Enumeration with Python/0171 HTB AXFR Function.md",
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0885 HTB Windows VPS.md",
+    "Technology Education/Courses/Hack The Box Academy/Setting Up (Pentesting)/0880 HTB Organization.md",
+    "Pasted image 20240628155136.png",
+    "Pasted image 20240628154936.png",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Portfolio/Templates",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Portfolio",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 5",
+    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 8",
+    "Pasted image 20240326175907.png",
+    "Pasted image 20240326175658.png",
+    "Pasted image 20240326175641.png",
+    "Pasted image 20240326175625.png",
+    "Pasted image 20240326175606.png",
+    "Pasted image 20240326175545.png"
   ]
 }

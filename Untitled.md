@@ -1,5 +1,0 @@
-The cybersecurity problems I would like to solve are related to malicious actors and finding flaws in a network's defenses. I would like to be able to identify these problems through penetration testing and then work with defensive teams to remediate and prevent these attacks.
-
-I would protect the organization and people within by educating users, clients, and members of the organization about how they can improve their cybersecurity posture and reinforce their existing knowledge while expanding my own.
-
-The most exciting part of my day would be identifying active threats and remedying the situation - before any damage is done in the best case scenarios. I would enjoy educating my team and continuing to learn throughout my career. I have always enjoyed learning and as I develop my security knowledge from a hobby to a career, I would like to help others do the same.
