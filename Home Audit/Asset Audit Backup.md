@@ -1,6 +1,6 @@
 ### Overview
 
-This is an activity where you will classify the assets of a home network. Taking a complet asset inventory and classifying them based on importance and sensitivity.
+This is an activity where you will classify the assets of a home network. Taking a complete asset inventory and classifying them based on importance and sensitivity.
 
 ### Scenario
 
