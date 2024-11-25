@@ -14,7 +14,11 @@ Go to system settings
 
 >tap "homebrew/bundle"
 >brew "yazi"
+>brew "git"
 >cask "tidal"
+>cask "firefox"
+>cask "visual-studio-code"
+>
 
 
 ### Checkout 
