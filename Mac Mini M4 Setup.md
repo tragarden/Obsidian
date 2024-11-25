@@ -15,4 +15,9 @@ Go to system settings
 >tap "homebrew/bundle"
 >brew "yazi"
 >cask "tidal"
->
+
+
+### Checkout 
+
+Friendly Streaming Browser
+
