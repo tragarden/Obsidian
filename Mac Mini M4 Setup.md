@@ -9,4 +9,10 @@ Go to system settings
 ### Homebrew
 
 - Setup a Homebrew
-- 
+- copy 'Brewfile' to '~/.Brewfile'
+- brew bundle --file ~/.Brewfile
+
+>tap "homebrew/bundle"
+>brew "yazi"
+>cask "tidal"
+>
