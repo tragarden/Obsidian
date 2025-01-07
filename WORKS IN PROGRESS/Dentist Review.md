@@ -1,3 +1,0 @@
-My sessions at Open and Affordable Dental exceeded my expectations for what a positive dentist experience could be like. I have had four appointments this year after about 15 years without seeing a dentist - one of my greatest fears. If you are scared of the dentist, I suggest giving Open and Affordable a try.
-
-During each session I was met with concern and respect for my fears and sensitivities. The receptionists, hygienists, and dentists were friendly, careful, and skilled. I thank everyone involved in this practice for your knowledge, care, and commitment to the health of our community! Thank you for improving my health and restoring my confidence that a trip to the dentist won't be nightmarish experience.
