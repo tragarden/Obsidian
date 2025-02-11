@@ -46,4 +46,20 @@ Deep Learning (DL) is a category of Machine Learning that utilizes neural networ
 
 Key identifying features of deep learning include:
 
-- Hierarchical Feature Learning - ability to learn hierarchical
+- Hierarchical Feature Learning - ability to learn hierarchical data that is structured in layers. As an example, low level layers might detect textures during image analysis while higher layers analyze shapes and objects in the images.
+
+- End-to-end Learning - able to plot raw input data to associated outputs without manual intervention from human sources.
+
+- Scalability - able to work within large data sets.
+
+The types of neural networks used for deep learning include:
+
+- Convolutional Neural Networks (CNN) - use convolutional layers to detect local patterns and spatial hierarchies for images and video.
+
+- Recurrent Neural Networks (RNN) - processes sequential data using loops that allow information to persist.
+
+- Transformers - the most recent advent of machine learning that are most adept at interpreting and processing natural languages. This is accomplished by using self-attention mechanisms.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Introduction to Machine Learning](https://academy.hackthebox.com/module/290/section/3247 "HTB Introduction to Machine Learning")
