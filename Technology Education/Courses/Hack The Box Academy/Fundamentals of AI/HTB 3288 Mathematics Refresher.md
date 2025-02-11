@@ -36,4 +36,28 @@
 - Intersection - all elements that are shared between two sets.
 - Complement - all elements that are not within the selected set.
 
-#### Eigenvalue
+#### Eigenvalue λ
+
+Eigenvalue is represented by lambda and are used to understand the behaviors of linear transformations, principal component analysis (PCA), and optimization.
+
+An Eigenvector is a non-zero vector that results in a scalar multiple of itself when multiplied by a matrix. The scalar value is the eigenvector.
+
+##### Other
+
+A Reciprocal in the context of AI simply means one divided by an expression to invert the value.
+
+A Conditional Probability Distribution is notated as P(x | y) and are used within Bayesian Inference, decision making during uncertainty, and probabilistic modeling.
+
+An Expectation Operator is notated as E\[...] and represents a random variable's expected value of the probability distribution.
+
+Variance is a measure of the range between a given variable and the mean.
+
+Standard Deviation is the square root of the variance to measure the dispersion of a variable.
+
+Covariance measure the variance between two variables.
+
+Correlation is the normalized covariance measure between -1 and 1. This indicates the strength and direction of the linear relationship between two random variables.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Mathematics Refresher](https://academy.hackthebox.com/module/290/section/3288 "HTB Mathematics Refresher")
