@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -215,10 +216,10 @@
   "active": "302c686bbfb6e09c",
   "lastOpenFiles": [
     "3.3.md",
+    "WORKS IN PROGRESS/Mac Mini M4 Setup.md",
     "Screenshots/Mac File Hierarchy.png",
     "Screenshots/keyRemap.jpg",
     "Welcome.md",
-    "WORKS IN PROGRESS/Mac Mini M4 Setup.md",
     "3.2.md",
     "Path to Bachelor's.md",
     "Hack The Box macOS.md",
