@@ -47,4 +47,8 @@ Cross-Validation is a technique that allows us to assess how well a model can ge
 
 Regularization is a technique that prevents overfitting by placing a penalty on loss functions that discourages the model from learning overly complex patterns.
 - L1 Regularization is when a penalty equal to the absolute value of the magnitude of coefficients.
-- L2 Regularization is when a penalty equal to the 
+- L2 Regularization is when a penalty equal to the square of the magnitude of coefficients is added.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Supervised Learning](https://academy.hackthebox.com/module/290/section/3248 "HTB Supervised Learning")
