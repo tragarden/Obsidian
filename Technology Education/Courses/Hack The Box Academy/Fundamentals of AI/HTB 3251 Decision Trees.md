@@ -115,4 +115,8 @@ An advantage to data trees is that they do not have many assumptions associated 
 
 - No Linearity Assumption - relationships can be non-linear between features and  target variables making theses trees more flexible than other methods.
 - No Normality Assumption - a normal distribution is not required.
-- Outlier Handling - these models are resistant to the influence of outliers since the data is partitioned based on feature values instead of distance-based calculations
+- Outlier Handling - these models are resistant to the influence of outliers since the data is partitioned based on feature values instead of distance-based calculations.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Decision Trees](https://academy.hackthebox.com/module/290/section/3251 "HTB Decision Trees")
