@@ -32,3 +32,27 @@ The SVM algorithm is used to find optimized values for w and b during model trai
 
 ### Non-Linear SVM
 
+In many cases data is not separable in a linear way. In these cases we will need to use alternative methods for modeling our data and features. This can be achieved by something known as the Kernel Trick.
+
+A Kernel Trick uses kernel functions to map data pints to a higher-dimensional space where they can become linearly separable. The goal is to add an extra dimension (like from 2D to 3D) to divide data points when the 2D plane is not a good option.
+
+#### Kernel Functions
+
+Commonly used kernel functions for achieving non-linear SVMs include:
+
+- Polynomial Kernel - uses polynomial terms to capture non-linear relationships between feastures. This can be thought of as implementing a curved decision boundary.
+
+- Radial Basis Function (RBF) - uses Gaussian functions to map data points to higher-dimensional spaces. This is a popular method capable of capturing non-linear patterns.
+
+- Sigmoid Kernel - similar to the sigmoid function for logistic regression, it maps data points too a space with a sigmoid shaped decision boundary.
+
+The formula for finding the optimal hyperplane for kernel functions is below:
+
+>Minimize: 1/2 ||w||^2
+>Subject to: yi (w \* xi + b) >= 1 for all i
+
+- w is the weight vector that defines the hyperplane
+- xi is the feature vector for data point i
+- yi is the class label for data point i (-1 or 1)
+- b is a bias term
+
