@@ -36,6 +36,24 @@ A Multiple Linear Regression is when multiple predictor variables are involved i
 
 Ordinary Least Squares (OLS) are used as a method for estimating optimal values for the coefficients within the linear regression. It is used to minimize the sum of squared differences between actual values and the predicted values.
 
+You can think of OLS as the line that minimizes the total area of the squares formed between the data points and the regression line.
+
 There is a specific process for determining the OLS values:
 
-1. 
+1. Calculate Residuals - the residual is the difference between the actual value and the predicted values.
+2. Square the Residuals - this ensures all values are positive and are used to illustrate large errors.
+3. Sum the Squared Residuals - this represents the model's overall error and is called the Residual Sum of Squares (RSS).
+4. Minimize the Sum of Squared Residuals - adjusts the coefficients to find the values that will return the smallest possible RSS.
+
+#### Assumptions
+
+In order to use linear regressions we need to make certain assumptions:
+
+- Linearity - a linear relationship exists between predictor and  target variables.
+- Independence - observations within the dataset are independent of each other.
+- Homoscedasticity - variance of the errors remains constant across all levels of predictor variables. Thusly the spread of residuals is roughly the same across the full range of predicted values.
+- Normality - errors are normally distributed to ensure that valid inferences are made about the coefficients used by the model.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Linear Regression](https://academy.hackthebox.com/module/290/section/3249 "HTB Linear Regression")
