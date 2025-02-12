@@ -56,3 +56,14 @@ The formula for finding the optimal hyperplane for kernel functions is below:
 - yi is the class label for data point i (-1 or 1)
 - b is a bias term
 
+#### Assumptions
+
+There are few assumptions that need to be made when using SVM:
+
+- No Distributional Assumptions - no strong assumptions about the distribution need to be made.
+- High Dimensionality - useful when the number oof features is larger than the number of data points.
+- Robust to Outliers - focuses on maximizing the margin instead of plotting points perfectly.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Support Vector Machines](https://academy.hackthebox.com/module/290/section/3253 "HTB Support Vector Machines")
