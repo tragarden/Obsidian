@@ -34,7 +34,7 @@ Anomaly scores can be calculated with the following formula:
 
 #### Local Outlier Factor 
 
-Local Outlier Factors (LOF) is an algorithm that is based on density to find outliers by comparing local density of a single point to that of it's neighbors.
+Local Outlier Factors (LOF) is an algorithm that is based on density to find outliers by comparing local density of a single point to that of it's neighbors. A higher LOF score likely indicates an outlier.
 
 The formula for LOF is below:
 
@@ -44,3 +44,22 @@ The formula for LOF is below:
 - lrd(o) is the local reachability density of point o, one of the k nearest neighbors to p.
 - k is the number of nearest neighbors.
 
+#### Local Reachable Density
+
+The Local Reachable Density lrd(p) formula is shown below:
+
+>lrd(p) = 1 / ( Σ reach_dist( p, o) / k )
+
+- reach_dist(p, o) is the reachability distance from p to o which is the maximum of the actual distance between p and o and the distance k of o.
+
+#### Assumptions
+
+Assumptions about the data must be made to use anomaly detection techniques:
+
+- Normal Distribution - using a Gaussian distribution or similar to normally distribute points.
+- Feature Relevance - making good feature choices to lower their influence over data.
+- Labeled Data - sometimes machine-learning will require the data to be labeled for model training.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Anomaly Detection](https://academy.hackthebox.com/module/290/section/3257 "HTB Anomaly Detection")
