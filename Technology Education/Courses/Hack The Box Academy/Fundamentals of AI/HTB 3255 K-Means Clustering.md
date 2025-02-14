@@ -62,3 +62,6 @@ We should assume the following when using K-means clustering:
 - Feature Scale - Large features have greater influence on the resulting clusters. They should therefore be standardized or normalized. 
 - Outliers - points that deviate significantly distort cluster centers.
 
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB K-Means Clustering](https://academy.hackthebox.com/module/290/section/3255 "HTB K-Means Clustering")
