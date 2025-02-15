@@ -36,3 +36,25 @@ Due to the iterative nature of this process, policies are continuously refined t
 #### Dilemma
 
 The main problem with Q-learning is finding a balance between exploration and exploitation.
+
+Exploration encourages the agent to try actions outside of developed policy even when actions haven't proven to lead to rewards. This helps determine new and potentially better strategies.
+
+Exploitation selects for actions that previously resulted in rewards in order to maximize short-term gains based on existing knowledge of success.
+
+#### Epsilon-Greedy 
+
+The Epsilon-Greedy Strategy is a simple and effective approach to balancing exploration-exploitation within Q-learning. This introduces randomness into action selection to prevent it from defaulting to the same actions over and over.
+
+This strategy encourages exploration while still making the choice for exploitation regularly. 
+
+Epsilon represents the probability and is measured on a scale of 0-1.
+
+High epsilon values promote additional exploration.
+
+Low Epsilon values promote additional exploitation.
+
+#### Assumptions
+
+Minimal assumptions are required for Q-learning:
+
+- Markov Property - assumes 
