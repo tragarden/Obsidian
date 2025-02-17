@@ -26,7 +26,7 @@ There are seven steps involved in the SARSA algorithm:
 3. Perform Actions - execute action a and observe the next state s' and the reward r received. 
 4. Choose a' - during the next state s', select the next action a' based on the current policy. Considering the next action is a key component of the on-policy nature of SARSA.
 5. Update Q-values - update the values for the state-action pairs.
-6. Update s and a - update the current state and action to the next state s' and action a'. This readies the algorithm for the next iteration of content.
+6. Update s and a - update the current state and action to the next state s' and action a'. Thisreadies the algorithm for the next iteration of content.
 7. Iterate - repeat the previous steps until Q-values converge or the max number of iterations is reached. This is a key feature for policy refinement.
 
 #### On and Off Policies
@@ -43,4 +43,24 @@ You can think of SARSA as an on-the-job learning algorithm that uses experience 
 
 #### Softmax
 
-Softmax is a method that assigns probabilities to actions based on their Q-values. 
+Softmax is a method that assigns probabilities to actions based on their Q-values, where higher Q-values are indicative of higher probabilities. This is a flexible method that encourages more nuanced and adaptive behaviors by encouraging the agent to make higher risk decisions
+
+#### Convergence 
+
+Convergence in the context of Reinforcement Learning means that a level of stability has been attained where Q-values remain relatively unchanging during new iterations and the policy has maximized rewards.
+
+Parameters that greatly influence convergence are:
+
+- Learning Rate (a) - controls how much Q-values are updated during each iteration. Higher a means faster updating but less stability. Lower a means more convergence but a slower process.
+- Discount Factor (y) - determines a balance between long-term and short-term rewards. Higher y values mean more long-term rewards while lower y means more short-term rewards.
+
+#### Assumptions
+
+We will make the following assuptions when using SARSA:
+
+- Markov Property - the environment qualifies for this property, meaning that the next state is dependent on the current state and action, not past states and actions.
+- Stationary Environment - environmental factors do not change.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB SARSA](https://academy.hackthebox.com/module/290/section/3260 "HTB SARSA")
