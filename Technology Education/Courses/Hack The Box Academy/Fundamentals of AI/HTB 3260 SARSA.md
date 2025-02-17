@@ -56,7 +56,7 @@ Parameters that greatly influence convergence are:
 
 #### Assumptions
 
-We will make the following assuptions when using SARSA:
+We will make the following assumptions when using SARSA:
 
 - Markov Property - the environment qualifies for this property, meaning that the next state is dependent on the current state and action, not past states and actions.
 - Stationary Environment - environmental factors do not change.

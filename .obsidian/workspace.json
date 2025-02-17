@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3260 SARSA.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3261 Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB 3260 SARSA"
+              "title": "HTB 3261 Deep Learning"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "302c686bbfb6e09c",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3288 Mathematics Refresher.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3260 SARSA.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3261 Deep Learning.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3288 Mathematics Refresher.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3259 Q-Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3258 Reinforcement Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3257 Anomaly Detection.md",
@@ -243,7 +244,6 @@
     "TSA Encryption Methods.md",
     "WORKS IN PROGRESS/Tasks for Landlord Arrival.md",
     "WORKS IN PROGRESS/laptop git setup.md",
-    "Technology Education/Courses/Hack The Box Academy/Bash Scripting Introduction/0123 HTB Bourne Again Shell.md",
     "Khan Academy/Math/Algebra 1/Unit 3",
     "Khan Academy/Math/Algebra 1/Unit 2",
     "Khan Academy/Math/Algebra 1/Unit 1",
