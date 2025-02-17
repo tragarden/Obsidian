@@ -30,4 +30,13 @@ The most common activation functions include:
 - Rectified Linear Unit (ReLU) - 0 for negative inputs and returns the input value for positive inputs.
 - Hyperbolic Tangent (Tanh) - scales input between -1 and 1.
 - Backpropagation - calculates the gradient of the loss function related to weights before updating the weights in a direction that will minimize losses. This is an iterative process.
-- Loss Function - measures errors between network predictions and target values. The goal of agent training is to minimize this loss function. Different tasks require different loss functions. Mean Square E
+- Loss Function - measures errors between network predictions and target values. The goal of agent training is to minimize this loss function. Different tasks require different loss functions. Mean Square Error and Cross-Entropy Loss are examples of this.
+- Optimizer - determines updates for weights during training by using gradients calculated during the backpropagation process. This is to minimize loss. Some popular optimizers include:
+	- Stochastic Gradient Descent (SGD)
+	- Adam
+	- RMSprop
+- Hyperparameters - determined before training as a way to control learning processes. These include the learning rate, number of hidden layers, and number of neurons per layer.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Deep Learning](https://academy.hackthebox.com/module/290/section/3261 "HTB Deep Learning")
