@@ -43,7 +43,7 @@ Singular Value Decomposition (SVD) is more stable as it decomposes the data matr
 
 ##### Selecting Components
 
-This decision leans in either the direction of dimensionality reductino or information preservation.
+This decision leans in either the direction of dimensionality reduction or information preservation.
 
 #### Assumptions
 

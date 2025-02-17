@@ -44,4 +44,9 @@ A simple review of gradient descent is below:
 
 1. Initialize - random values are assigned for weights and biases.
 2. Calculate Gradient - backpropagation is used to calculate gradient of the loss function.
-3. Update - weights and biases are updated by subtracting the fraction of the gradient from the currently defined weights and bias
+3. Update - weights and biases are updated by subtracting the fraction of the gradient from the currently defined weights and biases. The learning rate determines the fraction.
+4. Repeat - steps 2 and 3 are repeated until either convergence is achieved or the designated number of iteration occurs.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Neural Networks](https://academy.hackthebox.com/module/290/section/3263 "HTB Neural Networks")

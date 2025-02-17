@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hardware",
+                "query": "relu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,24 +216,25 @@
   },
   "active": "302c686bbfb6e09c",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3256 Principal Component Analysis.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3248 Supervised Learning Algorithms.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3255 K-Means Clustering.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3254 Unsupervised Learning.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3253 Support Vector Machines.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3252 Naive Bayes.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3250 Logistic Regression.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3249 Linear Regression.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3247 Intro to Machine Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3262 Perceptrons.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3263 Neural Networks.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3288 Mathematics Refresher.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3261 Deep Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3260 SARSA.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3259 Q-Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3258 Reinforcement Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3257 Anomaly Detection.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3256 Principal Component Analysis.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3255 K-Means Clustering.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3254 Unsupervised Learning.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3253 Support Vector Machines.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3252 Naive Bayes.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3264 Convolutional Neural Networks.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3263 Neural Networks.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3288 Mathematics Refresher.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3251 Decision Trees.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3250 Logistic Regression.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3249 Linear Regression.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3248 Supervised Learning Algorithms.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3247 Intro to Machine Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Active Directory/0700 HTB Active Directory Structure.md",
     "WORKS IN PROGRESS/Mac Mini M4 Setup.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
@@ -243,7 +245,6 @@
     "3.2.md",
     "Path to Bachelor's.md",
     "Hack The Box macOS.md",
-    "TSA Encryption Methods.md",
     "Khan Academy/Math/Algebra 1/Unit 3",
     "Khan Academy/Math/Algebra 1/Unit 2",
     "Khan Academy/Math/Algebra 1/Unit 1",
