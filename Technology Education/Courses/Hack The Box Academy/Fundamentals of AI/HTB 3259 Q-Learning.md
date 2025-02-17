@@ -57,4 +57,9 @@ Low Epsilon values promote additional exploitation.
 
 Minimal assumptions are required for Q-learning:
 
-- Markov Property - assumes 
+- Markov Property - assumes that the next state depends only on the current state and action - not a history of the previous states and actions.
+- Stationary Environment - assumes the environment's dynamics are unchanging over time. This means that the transition probabilities and the reward functions are static.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Q-Learning](https://academy.hackthebox.com/module/290/section/3259 "HTB Q-Learning")
