@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0191 Query Results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB 0183 Intro to MySQL"
+              "title": "HTB 0191 Query Results"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "c5b306beb59bab97",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0190 SQL Statements.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0191 Query Results.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0190 SQL Statements.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
     "Hack The Box macOS.md",
@@ -212,7 +213,6 @@
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3261 Deep Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3260 SARSA.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3259 Q-Learning.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3258 Reinforcement Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
     "Screenshots/Mac File Hierarchy.png",
     "Screenshots/keyRemap.jpg",
