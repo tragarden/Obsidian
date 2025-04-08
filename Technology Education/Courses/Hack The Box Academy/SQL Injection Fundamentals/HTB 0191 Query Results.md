@@ -28,3 +28,32 @@ You can also indicate an offset to select specified results from the middle of a
 
 #### WHERE
 
+WHERE can be used to apply conditions to a SELECT statement. Below is an example:
+
+>SELECT \* FROM tablename WHERE \<condition>;
+
+This would return all results that satisfy the indicated condition, unspecified in the example.
+
+Here is a more specific example:
+
+>SELECT \* FROM logins WHERE id > 1;
+
+This would select all records that have an id value greater than 1, skipping the first entry.
+
+Another example:
+
+>SELECT \* FROM logins where username = 'admin';
+
+This would select all records related to the username 'admin'.
+
+#### LIKE
+
+LIKE is used to select records that satisfy the indicated pattern. 
+
+The next example would retrieve all records containing usernames starting with 'admin':
+
+>SELECT \* FROM logins WHERE username LIKE 'admin%';
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Introduction to Query Results](https://academy.hackthebox.com/module/33/section/191 "Intro to SQL Query Results")
