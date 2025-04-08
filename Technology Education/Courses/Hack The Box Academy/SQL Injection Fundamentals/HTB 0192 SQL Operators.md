@@ -24,4 +24,12 @@ The operators AND, OR, and NOT can be alternatively written as &&, ||, and !, re
 
 You can think of this as PEMDAS, or order of operations, applied to the operators.
 
-Here is the standard order of precedence established in order of 
+Here is the standard order of precedence established in order of highest priority to lowest:
+
+- Division, Multiplication, and Modulus
+- Addition and Subtraction
+- Comparisons like less than, greater than, etc.
+- NOT
+- AND
+- OR
+
