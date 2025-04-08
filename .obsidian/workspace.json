@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c1b1f4c7f9dbbbb4",
+        "id": "5ec1a2807bfa7d04",
         "type": "tabs",
         "children": [
           {
-            "id": "a2bc23e2614bc083",
+            "id": "c5b306beb59bab97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Audit/Resources I Used for Tech Ed.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Resources I Used for Tech Ed"
-            }
-          },
-          {
-            "id": "41f22fc24f70ceb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mac Mini M4 Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mac Mini M4 Setup"
-            }
-          },
-          {
-            "id": "302c686bbfb6e09c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3268 Diffusion Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTB 3268 Diffusion Models"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,11 +180,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "302c686bbfb6e09c",
+  "active": "c5b306beb59bab97",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3267 Large Language Models.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3268 Diffusion Models.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3288 Mathematics Refresher.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3267 Large Language Models.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3266 Generative AI.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3265 Recurrent Neural Networks.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3264 Convolutional Neural Networks.md",

@@ -40,5 +40,36 @@ The denoising process is mathematically represented below:
 
 >x_\{t-1} = p_0 (x_\{t-1} | x_t)
 
-- this is the learned distribution parameterized by the model paramerrters 0
-- this process minimizes the difference between the predicted and actual noise added in the forward process. This is often achieved using a loss function like the mean squared error (MSE)
+- this is the learned distribution parameterized by the model parameters 0
+- this process minimizes the difference between the predicted and actual noise added in the forward process. This is often achieved using a loss function like the mean squared error (MSE).
+
+#### Denoising
+
+The Denoising Network is a neural network that learns to predict the noise for each step in time. This is often a deep convolutional neural network (CNN) or a transformer depending on complexity. 
+
+The input for this network is x_T and the output is hat\{e}.
+
+#### Training
+
+The training intends to minimize loss functions over multiple time steps by utilizing gradient descent and backpropagation. This is a hardware intensive process that results in high-quality images as results.
+
+The training process is detailed below:
+
+1. Initialize - start with parameters of 0 for the denoising network.
+2. Forward Process - add noise to the original input data using a noise schedule.
+3. Reverse Process - train the denoising network to predict the noise at each time step.
+4. Loss Calculation - calculate the loss between predicted outcomes and actual noise.
+5. Parameter Update - update the model parameters via gradient descent to minimize loss.
+6. Iterate - repeat the process until the model converges.
+
+#### Assumptions
+
+The following assumptions must be made when using diffusion models:
+
+- Markov - the diffusion process must demonstrate the Markov property where steps in both the forward and reverse processes must depend on ONLY the previous step and not the entire history of steps.
+- Static Distribution - diffusion models must be trained on fixed data so that they learn to represent the distribution of the data. The distribution is assumed to be fixed during training.
+- Smoothness - diffusion models see improved performance when data distribution is smooth. Small changes in the input data result in small changes in the output in order to generate realistic samples.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Diffusion Models](https://academy.hackthebox.com/module/290/section/3268 "HTB Diffusion Models")
