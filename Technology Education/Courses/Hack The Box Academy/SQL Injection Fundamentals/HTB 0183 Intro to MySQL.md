@@ -63,4 +63,45 @@ Consider the following command that creates a table named 'logins':
 
 >CREATE TABLE logins (
 >	id INT,
->	username VAR)
+>	username VARCHAR(100),
+>	password VARCHAR(100),
+>	date_of_joining DATETIME
+>);
+
+- Creates a table with the name 'logins'
+- assigns three columns: username, password, and date_of_joining
+- assigns data types for each column
+- assigns properties to these columns
+
+The following command would show all successfully generated tables.
+
+>SHOW TABLES
+
+The DESCRIBE keyword can be used to show a list of all tables with their data type:
+
+>DESCRIBE logins;
+
+#### Properties
+
+Properties can be set for each table and column. Some commonly used properties include:
+
+- AUTO_INCREMENT - automatically increments an INT value by 1.
+- NOT NULL - forces a column to have no empty cells.
+- UNIQUE - forces all cell entries to remain unique.
+- DEFAULT - indicates a default value for otherwise null cells.
+- Now() - inputs the current time and date, sometimes useful with DEFAULT.
+- PRIMARY KEY - forces unique identification for each record in the table.
+
+An example of a thorough command for creating a table with properties is below:
+
+>CREATE TABLE logins (
+>	id INT NOT NULL AUTO_INCREMENT,
+>	username VARCHAR(100) UNIQUE NOT NULL,
+>	password VARCHAR(100) NOT NULL,
+>	date_of_joining DATETIME DEFAULT NOW()
+>	PRIMARY KEY (id)
+>);
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Introduction to SQL](https://academy.hackthebox.com/module/33/section/183 "Intro to SQL")
