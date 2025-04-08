@@ -11,10 +11,14 @@
             "id": "c5b306beb59bab97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HTB 0178 Intro to Databases"
             }
           }
         ]
@@ -182,6 +186,11 @@
   },
   "active": "c5b306beb59bab97",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
+    "Hack The Box macOS.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3247 Intro to Machine Learning.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3268 Diffusion Models.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3288 Mathematics Refresher.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3267 Large Language Models.md",
@@ -197,7 +206,6 @@
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3252 Naive Bayes.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3250 Logistic Regression.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3249 Linear Regression.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3247 Intro to Machine Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3262 Perceptrons.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3261 Deep Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3260 SARSA.md",
@@ -205,10 +213,7 @@
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3258 Reinforcement Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3257 Anomaly Detection.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3251 Decision Trees.md",
-    "Technology Education/Courses/Hack The Box Academy/Active Directory/0700 HTB Active Directory Structure.md",
-    "WORKS IN PROGRESS/Mac Mini M4 Setup.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
-    "3.3.md",
     "Screenshots/Mac File Hierarchy.png",
     "Screenshots/keyRemap.jpg",
     "Khan Academy/Math/Algebra 1/Unit 3",
@@ -223,7 +228,6 @@
     "Pasted image 20240628154936.png",
     "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Portfolio/Templates",
     "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Portfolio",
-    "Technology Education/Courses/Coursera/Google CyberSecurity Certification/Course 5",
     "Pasted image 20240326175907.png",
     "Pasted image 20240326175658.png",
     "Pasted image 20240326175641.png",
