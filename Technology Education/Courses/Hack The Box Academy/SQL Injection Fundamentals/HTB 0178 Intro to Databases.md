@@ -19,4 +19,8 @@ There are some essential features of a good DBMS, as described below:
 Most databases use a two-tier database.
 
 - Tier I handles the client-side applications and activities like login or comment posting. Once this data is submitted on the front end, it is passed on to Tier II via API calls or other methods.
-- Tier II 
+- Tier II is known as middleware that interprets events and stores them in a format required by the DBMS. An application layer uses libraries and drivers to receive queries like insertion, retrieval , deletion, or updating. The DBMS will return either the requested data or relevant error codes for inoperable queries.
+- 
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Introduction to Databases](https://academy.hackthebox.com/module/33/section/178 "Intro to Databases")
