@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0190 SQL Statements.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB 0190 SQL Statements"
+              "title": "HTB 0183 Intro to MySQL"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "c5b306beb59bab97",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0190 SQL Statements.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
     "Hack The Box macOS.md",

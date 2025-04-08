@@ -75,7 +75,7 @@ Consider the following command that creates a table named 'logins':
 
 The following command would show all successfully generated tables.
 
->SHOW TABLES
+>SHOW TABLES;
 
 The DESCRIBE keyword can be used to show a list of all tables with their data type:
 
