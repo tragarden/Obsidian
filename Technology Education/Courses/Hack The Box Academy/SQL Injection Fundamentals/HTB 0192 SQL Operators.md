@@ -33,3 +33,6 @@ Here is the standard order of precedence established in order of highest priorit
 - AND
 - OR
 
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Introduction to SQL Operators](https://academy.hackthebox.com/module/33/section/192 "Intro to SQL Operators")

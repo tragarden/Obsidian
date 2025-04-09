@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0192 SQL Operators.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 194 Subverting Query Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB 0192 SQL Operators"
+              "title": "HTB 194 Subverting Query Logic"
             }
           }
         ]
@@ -186,11 +186,14 @@
   },
   "active": "c5b306beb59bab97",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0191 Query Results.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0193 SQL Injections.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 194 Subverting Query Logic.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0192 SQL Operators.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
+    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3258 Reinforcement Learning.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0191 Query Results.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0190 SQL Statements.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
     "Hack The Box macOS.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3247 Intro to Machine Learning.md",
@@ -210,9 +213,6 @@
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3252 Naive Bayes.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3250 Logistic Regression.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3249 Linear Regression.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3262 Perceptrons.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3261 Deep Learning.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3260 SARSA.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
     "Screenshots/Mac File Hierarchy.png",
     "Screenshots/keyRemap.jpg",
