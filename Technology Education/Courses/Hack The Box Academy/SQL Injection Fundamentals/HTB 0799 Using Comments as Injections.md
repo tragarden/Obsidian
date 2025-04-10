@@ -18,3 +18,28 @@ Note that in order to use the \-- method for commenting, you MUST include a spac
 
 When you are using the \# symbol, consider that within a web browser this is considered a tag and will not be passed to the backend as part of the URL. You will need to use the URL encoded representation for \# which is %23.
 
+The following code will inject 'admin '-- ' into the SQL statement:
+
+>SELECT \* FROM logins WHERE username='admin'-- ' AND password = 'something';
+
+This would resultantly make the username admin and then comment out the rest of the statement. This will successfully grant us access to the example admin page.
+
+#### Order of Operations
+
+SQL allows you to use parenthesis to indicate that you want to prioritize one condition over others, making them higher in precedence.
+
+Remember that the statement being used to assess credential submissions is shown below, with out previously successful submission of the username ' admin'-- '.
+
+>Executing Query: SELECT \* FROM logins WHERE username='admin'-- ' AND password='a';
+
+Sometimes a condition is placed that prevents the admin account name from being submission. In this case the user ID number is used to ensure that the account number 1 is unable to be submitted. We will attempt to bypass this.
+
+Here is the example of the query with the condition barring the admin account ID number:
+
+>Executing Query: SELECT \* FROM logins WHERE (username='admin' AND id>1) AND password='password';
+
+We are able to use the username admin')-- to close the 
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Subverting Query Logic](https://academy.hackthebox.com/module/33/section/799 "HTB Using Comments for Injection")
