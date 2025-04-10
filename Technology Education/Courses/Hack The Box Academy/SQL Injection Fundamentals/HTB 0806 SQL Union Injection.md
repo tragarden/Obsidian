@@ -37,3 +37,11 @@ This would always return 'corncob', and if you used integers instead of strings 
 In the example we are working through, the products table has two columns, which means we would need a UNION that also has two columns. Below is a statement that would achieve this:
 
 >SELECT \* FROM products WHERE product_id = '1' UNION SELECT username, 2 FROM passwords
+
+If the original query has more columns than the UNION'ed part, we need to add columns to the original:
+
+>UNION SELECT username, 2, 3, 4 FROM passwords-- '
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB SQL Union Injections](https://academy.hackthebox.com/module/33/section/806 "HTB SQL Union Injections")
