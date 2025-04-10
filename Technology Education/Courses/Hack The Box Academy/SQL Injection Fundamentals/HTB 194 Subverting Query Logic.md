@@ -30,3 +30,6 @@ The injection will be placed within the single quotes following username to prod
 
 >SELECT \* FROM logins WHERE username='admin' or '1'='1' AND password='something';
 
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Subverting Query Logic](https://academy.hackthebox.com/module/33/section/194 "HTB Subverting Query Logic")
