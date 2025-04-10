@@ -30,8 +30,10 @@ Often there will be times that the original query output will not have the corre
 
 You can submit any string as arbitrary input for the original query columns. We could UNION the original query with the string 'corncob', creating the following statement:
 
->SELECT 'corncob' FROM passwords;
+>SELECT 'corncob' FROM passwords
 
 This would always return 'corncob', and if you used integers instead of strings it would yield the same effect. You need to match data types when choosing the type of arbitrary data to commit.
 
-In the example we are working through, the products table has two columns, which means we would need a UNION 
+In the example we are working through, the products table has two columns, which means we would need a UNION that also has two columns. Below is a statement that would achieve this:
+
+>SELECT \* FROM products WHERE product_id = '1' UNION SELECT username, 2 FROM passwords
