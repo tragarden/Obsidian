@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0799 Using Comments as Injections.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0806 Union Clause Injections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB 0799 Using Comments as Injections"
+              "title": "HTB 0806 Union Clause Injections"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "c5b306beb59bab97",
   "lastOpenFiles": [
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 194 Subverting Query Logic.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0799 Using Comments as Injections.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0806 Union Clause Injections.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 194 Subverting Query Logic.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0193 SQL Injections.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0192 SQL Operators.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
@@ -212,7 +213,6 @@
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3254 Unsupervised Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3253 Support Vector Machines.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3252 Naive Bayes.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3250 Logistic Regression.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
     "Screenshots/Mac File Hierarchy.png",
     "Screenshots/keyRemap.jpg",

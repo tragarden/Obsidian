@@ -38,8 +38,20 @@ Here is the example of the query with the condition barring the admin account ID
 
 >Executing Query: SELECT \* FROM logins WHERE (username='admin' AND id>1) AND password='password';
 
-We are able to use the username admin')-- to close the 
+This statement means that even if you knew the correct credentials for the admin account, you would be prevented from accessing it anyway. Other accounts will experience no problems authenticating when supplied with the correct credentials.
+
+We will now need to comment out the part of the query that prevents ID number 1 from being accessed.
+
+In the case where we try to input the username ' admin' -- ' we are unable to successfully submit our query due to syntax errors.
+
+Alternatively we are able to use the username admin')-- to comment out the rest of of the query:
+
+>Executing Query: SELECT \* FROM logins WHERE (username='admin')-- ' AND id>1) AND password='password';
+
+This effectively make the submitted query:
+
+>Executing Query: SELECT \* FROM logins WHERE (username='admin')
 
 ### Related:
 - [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
-- [HTB Subverting Query Logic](https://academy.hackthebox.com/module/33/section/799 "HTB Using Comments for Injection")
+- [HTB Using Comments for Injection](https://academy.hackthebox.com/module/33/section/799 "HTB Using Comments for Injection")
