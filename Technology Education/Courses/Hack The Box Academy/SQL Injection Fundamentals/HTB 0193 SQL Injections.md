@@ -2,6 +2,8 @@
 
 SQL Injections are when a web application receives user input that is submitted as code instead of a string. This occurs if proper sanitization methods are not enforced within the data entry points of the application. Special characters are used to bypass the boundaries of user input so that the code is executed.
 
+If we want perform an easy test to determine if a submission form is vulnerable to SQL injection, we can simply enter a single apostrophe ( ' ) into the submission field. If it returns an error, this may mean that the page is vulnerable to SQL injections.
+
 ### Types
 
 How and where output is retrieved is how SQL Injections are identified or named.

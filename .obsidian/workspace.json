@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0806 SQL Union Injection.md",
+                "file": "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0216 SQL Union Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB 0806 SQL Union Injection"
+              "title": "HTB 0216 SQL Union Injection"
             }
           }
         ]
@@ -186,11 +186,12 @@
   },
   "active": "c5b306beb59bab97",
   "lastOpenFiles": [
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0193 SQL Injections.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0216 SQL Union Injection.md",
+    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0806 SQL Union Clause.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0799 Using Comments as Injections.md",
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0806 SQL Union Injection.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0190 SQL Statements.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 194 Subverting Query Logic.md",
-    "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0193 SQL Injections.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0192 SQL Operators.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0177 Injection Fundamentals.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3258 Reinforcement Learning.md",
@@ -212,7 +213,6 @@
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3255 K-Means Clustering.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3254 Unsupervised Learning.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3253 Support Vector Machines.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3252 Naive Bayes.md",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
     "Screenshots/Mac File Hierarchy.png",
     "Screenshots/keyRemap.jpg",

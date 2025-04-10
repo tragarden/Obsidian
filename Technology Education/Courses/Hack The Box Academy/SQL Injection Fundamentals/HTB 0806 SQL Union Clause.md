@@ -44,4 +44,4 @@ If the original query has more columns than the UNION'ed part, we need to add co
 
 ### Related:
 - [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
-- [HTB SQL Union Injections](https://academy.hackthebox.com/module/33/section/806 "HTB SQL Union Injections")
+- [HTB SQL Union Clause](https://academy.hackthebox.com/module/33/section/806 "HTB SQL Union Clause")
