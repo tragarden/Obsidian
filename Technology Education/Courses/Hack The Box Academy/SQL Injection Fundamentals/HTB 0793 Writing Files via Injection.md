@@ -94,7 +94,7 @@ If all else fails, you can attempt to use server error output to try and discove
 
 Here is an example injection that would achieve the above for our module:
 
->cn' UNION SELECT 1, 'file written successfully!', 3, 4 INTO OUTFIL '/var/www/html/proof.txt'-- -
+>cn' UNION SELECT 1, 'file written successfully!', 3, 4 INTO OUTFILE '/var/www/html/proof.txt'-- -
 
 When this is submitted, no errors are returned and the query has been successfully injected. You can now check the file proof.txt to confirm it's existence. In the output you can see that the numbers 1, 3, and 4 are included because all junk data we submitted was written to the file. If you wanted to remove the numbers in output, you could replace them with a set of double quotes ("").
 
