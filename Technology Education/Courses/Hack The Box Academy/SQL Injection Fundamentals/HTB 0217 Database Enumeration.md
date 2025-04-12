@@ -18,7 +18,7 @@ If the fingerprinting process suggests that they are using MySQL, you can then b
 
 ### INFORMATION_SCHEMA
 
-In order to use the UNION clause to retireve data from tables, you will need to have the following information before crafting your SELECT statement:
+In order to use the UNION clause to retrieve data from tables, you will need to have the following information before crafting your SELECT statement:
 
 - List of Databases
 	- List of Tables for all databases
