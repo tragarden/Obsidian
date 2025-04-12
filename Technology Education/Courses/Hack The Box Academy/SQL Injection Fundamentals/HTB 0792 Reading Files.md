@@ -44,4 +44,34 @@ With the following statement, we can look further into the privileges that we ha
 
 >cn' UNION SELECT 1, grantee, privilege_type, 4 FROM information_schema.user_privileges-- -
 
-Next, we can continue to add to this statement using the WH
+Next, we can continue to add to this statement using WHERE grantee="'root'@'localhost'" to reveal only the current user privileges:
+
+>cn' UNION SELECT 1, grantee, privilege_type, 4 FROM information_schema.user_privileges WHERE grantee="'root'@'localhost'"-- -
+
+This should successfully reveal all privileges of the root user. In the example, you can see that the root user has FILE permissions that allow you to read and maybe write files to the database.
+
+#### LOAD_FILE
+
+The LOAD_FILE function within MariaDB or MySQL can be used to read data from files by taking the file name as an argument. 
+
+The following query will read the /etc/passwd  file:
+
+>SELECT LOAD_FILE("/etc/passwd"), 3, 4-- -
+
+This will successfully read the passwd file from our example database. Caution should be applied here as the source code for the application could be leaked in this circumstance.
+
+#### search.php
+
+The page being viewed in the example is known as search.php, and we want to read the source code of this file. We will need to infiltrate the default Apache webroot /var/www/html.
+
+You can achieve this with the following query:
+
+>cn' UNION SELECT 1, LOAD_FILE("/var/www/html/search.php"), 3, 4-- -
+
+This query wil render the browser's HTML code and the source can be viewed via CTRL + U.
+
+This will reveal the source code including the PHP code for the page. This can reveal sensitive data like connection credentials so that we can discover further vulnerabilities.
+
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Reading Files via Injection](https://academy.hackthebox.com/module/33/section/792 "HTB Reading Files via Injection")
