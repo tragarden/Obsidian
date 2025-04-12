@@ -51,3 +51,30 @@ Now you can find the database that is currently in use with the following query 
 >cn' UNION select 1, database(), 2, 3-- -
 
 ### TABLES
+
+You can get a list of tables from the database named 'dev' by using a select statement. When you want to find all of the tables within a specific database, you can use a table named TABLES in the INFORMATION_SCHEMA database to enumerate them. This table holds metadata about all tables within the database.
+
+There are columns named TABLE_SCHEMA and TABLE_NAME that tell you the names of all tables and which databases they belong to. 
+
+Here is a statement that you can use to find the tables:
+
+>UNION SELECT 1, TABLE_NAME, TABLE_SCHEMA, 4 FROM INFORMATION_SCHEMA.TABLES WHERE table_schema='dev'-- -
+
+This will reveal four tables within the database named dev - credentials, framework, pages, and posts.
+
+### COLUMNS
+
+The COLUMNS table holds information about every column within all databases.
+
+The following statement can be used to find all the column names within the credentials table:
+
+>cn' UNION select 1,COLUMN_NAME,TABLE_NAME,TABLE_SCHEMA from INFORMATION_SCHEMA.COLUMNS where table_name='credentials'-- -
+
+This will reveal the columns username and password. This information can be used to retrieve further information.
+
+### DATA
+
+Now that we have identified the columns within the credentials column, we can use the UNION clause to retrieve the data from these columns:
+
+>cn' UNION SELECT 1, username, password, 4 FROM dev.credentials- --
+
