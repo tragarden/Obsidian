@@ -32,4 +32,22 @@ The dot ( . ) operator is used to reference tables from other databases. An exam
 
 ### SCHEMATA
 
+SCHEMATA is a table within INFORMATION_SCHEMA that holds information related to all databases on the server. You can use this to get the names of databases so they may be queried. There is a SCHEMA_NAME column that will hold all the names of active databases. 
 
+Consider the following statement used against a local database:
+
+>SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA;
+
+This would display all the databases including the 3 default databases named mysql, information_schema, and performance_schema. Occasionally you will see a fourth default database named 'sys'.
+
+Now we will perform the same operation using a UNION injection:
+
+>cn' UNION select 1, schema_name, 3, 4, FROM INFORMATION_SCHEMA.SCHEMATA-- -
+
+In the example, the same default databases are displayed with the locally created databases named 'ilfreight' and 'dev', just as the previous example - only this time we retrieved this information via injection.
+
+Now you can find the database that is currently in use with the following query that utilizes the SELECT database() query:
+
+>cn' UNION select 1, database(), 2, 3-- -
+
+### TABLES
