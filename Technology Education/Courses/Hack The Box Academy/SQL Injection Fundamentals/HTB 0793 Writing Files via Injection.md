@@ -71,3 +71,23 @@ Then you can assess the read and write privileges and other information about th
 >ls -la /tmp/test.txt
 
 This will reveal that the file creation was successful and that it is owned by the MySQL user you are operating under.
+
+### Writing with Injections
+
+You can use the following query to write a text file to the webroot to verify permissions:
+
+>SELECT 'file written successfully!' INTO OUTFILE '/var/www/html/proof.txt'
+
+If you wanted to write to the web shell, you would need to know the base web directory for the web server - also known as the web root. You can find this by using load_file to determine the server configuration. 
+
+In the case of Apache servers, this is stored in /etc/apache2/apache2.conf.
+
+For Nginx, this is located in /etc/nginx/nginx.conf.
+
+IIS configuration is located in %WinDir%\System32\Inetsrv\Config\ApplicationHost.config.
+
+If none of these are working, you can do an online search to seek out additional configuration locations.
+
+Fuzzing can be used to scan locations and attempt file writing to different potential web roots by using Linux and Windows wordlists.
+
+If all else fails, you can attempt to use server error output to try and discover the base web directory.
