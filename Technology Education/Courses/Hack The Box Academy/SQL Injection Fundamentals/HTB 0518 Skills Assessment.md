@@ -9,6 +9,8 @@ With the resulting output:
 >Adam 	January 	1337$ 	5%
 >James 	March 	1213$ 	8%
 
+**NOTE: I didn't notice the first time through but this command puts you on a page related to payroll, which intakes different injections than the home page**
+
 I then iterated through another UNION query to find out how many columns were in the table I am accessing:
 
 >cn' UNION SELECT 1,2,3,4,5-- -
@@ -95,4 +97,6 @@ This returned no output, suggesting that we have successfully written to the fil
 
 I then checked by including /var/www/html/dashboard/proof.txt at the end of my working URL for the site:
 
->/http://94.237.58.135:59758/dashboard/dashboard.php
+>/http://94.237.58.135:59758/dashboard/proof.php
+
+This output indicates that our file write was successful.
