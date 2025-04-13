@@ -1,5 +1,9 @@
 [
   "table-editor-obsidian",
   "cmenu-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count",
+  "obsidian-excalidraw-plugin",
+  "hotkeysplus-obsidian",
+  "markdown-table-editor"
 ]
