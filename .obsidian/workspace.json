@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Portfolio Projects Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Portfolio Projects Queue"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HTB 518",
+                "query": "home audit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,9 @@
   },
   "active": "0a97e547e452a34c",
   "lastOpenFiles": [
+    "Technology Education/Courses/Portfolio/Classifying Home Network Assets.md",
+    "Portfolio Projects Queue.md",
     "Technology Education/Courses/Coursera/Machine Learning Specialization/Coursera Machine Learning Week 3.md",
-    "Untitled.md",
     "Technology Education/Courses/Coursera/Machine Learning Specialization/Coursera Machine Learning Week 2.md",
     "Technology Education/Courses/Coursera/Machine Learning Specialization/Coursera Machine Learning Week 1.md",
     "Technology Education/Courses/Coursera/Machine Learning Specialization/099 Stock Trend Machine Learning Notes.md",
@@ -244,7 +245,6 @@
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
     "Hack The Box macOS.md",
-    "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI/HTB 3247 Intro to Machine Learning.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
     "Screenshots/Mac File Hierarchy.png",
