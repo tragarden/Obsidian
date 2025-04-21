@@ -87,6 +87,13 @@
 
 ---
 
+## Laptop Configuration 
+### 18. Optimize Alienware Laptop *(Planned)*
+- Replicate the optimization steps used on your custom PC (e.g., thermal management, driver cleanup, audio tweaks).
+- Assess bloatware, power plans, and update BIOS/firmware if needed.
+- Document the before/after performance and temperature improvements.
+
+___
 ## 🏷️ Tags
 #projects
 #obsidian
