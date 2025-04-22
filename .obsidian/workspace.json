@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TSA Encryption Methods.md",
+                "file": "Technology Education/Courses/Portfolio/Asset Audit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TSA Encryption Methods"
+              "title": "Asset Audit"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home audit",
+                "query": "asset audit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,6 +219,7 @@
   },
   "active": "0a97e547e452a34c",
   "lastOpenFiles": [
+    "TSA Encryption Methods.md",
     "Technology Education/Courses/Coursera/Machine Learning Specialization/099 Stock Trend Machine Learning Notes.md",
     "Portfolio Projects Queue.md",
     "Technology Education/Courses/Portfolio/Classifying Home Network Assets.md",
@@ -244,7 +246,6 @@
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0191 Query Results.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0183 Intro to MySQL.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals/HTB 0178 Intro to Databases.md",
-    "Hack The Box macOS.md",
     "Technology Education/Courses/Hack The Box Academy/SQL Injection Fundamentals",
     "Technology Education/Courses/Hack The Box Academy/Fundamentals of AI",
     "Screenshots/Mac File Hierarchy.png",
