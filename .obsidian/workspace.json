@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Related\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,8 +234,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -246,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -258,7 +260,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "6504ab2f14b40825",
+  "active": "3cd9cb37fe485163",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Journal/Qualification Fact Checking.md",
