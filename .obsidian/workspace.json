@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology Education/Courses/Portfolio/Asset Audit.md",
+                "file": "Home Audit/Resources I Used for Tech Ed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asset Audit"
+              "title": "Resources I Used for Tech Ed"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,6 +191,7 @@
   },
   "active": "da364e1934944684",
   "lastOpenFiles": [
+    "Technology Education/Courses/Portfolio/Asset Audit.md",
     "TSA Encryption Methods.md",
     "Journal/Untitled 2 1.md",
     "Untitled.base",
