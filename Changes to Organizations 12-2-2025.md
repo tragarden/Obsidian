@@ -169,3 +169,18 @@ NOTE: this looks thorough and complete
 
 ---
 
+Hapag Lloyd
+
+Jackie Morello
+
+_US Flag –Senior Coordinator_
+
+**Hapag Lloyd USA, LLC**  
+3 Ravinia Drive, Suite 1650
+
+Atlanta, GA 30346
+
+Phone: +1 800 834-6314
+
+NOTE: Multiple instances for different cities - Atlanta, Hamburg, Mumbai, Yenisahra
+
